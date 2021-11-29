@@ -1,0 +1,2166 @@
+event_code,description
+102P,102P
+133P,133P
+1744,Record that the application has been reactivated.
+1750,Record withdrawal of an application by the applicant.
+203I,203I
+206E,206E  
+206I,206I
+206R,206R  
+2091,Disposal Flag Change
+2093,Intermediate Flag Change
+210B,210B  
+210E,210E  
+210I,210I
+210L,210L  
+210R,210R  
+2509,Reconstruction Notice no longer required
+2510,Reconstruction Notice under 37 CFR 1.251 - Pending Application
+2513,Response to 37 CFR 1.251 Notice - Papers Provided for File Reconstruction
+2CCC,PCT forwarded to CCC
+371COMP,371 Completion Date
+A...,Response after Non-Final Action
+A.I.,Informal or Non-Responsive Amendment after Examiner Action
+A.IR,Amendment or Request for Reconsideration after Final Rejection
+A.IX,Withdraw of Informal Amendment Notice
+A.LA,Untimely (Late) Amendment Filed
+A.NA,Amendment after Notice of Allowance (Rule 312)
+A.NE,Response after Final Action
+A.NQ,Amendment Crossed in Mail
+A.NR,Non-Responsive Amendment after Non-Final Action
+A.PE,Preliminary Amendment
+A.QU,Response after Ex Parte Quayle Action
+A.TA,Telegraphic Amendment or Request for Reconsideration
+A/RR,Request for Reconsideration and/or Argument after Non-Final Action
+A371,Applicant 371 Filing Paper Received
+AABR,Amendment After Brief
+AAF.,Response to Final Rejection
+AB11,X-Post-Legal Complete Abandonment
+AB15,X-Post-Legal Complete Abandonment
+AB16,X-Post-Legal Complete Abandonment
+AB17,X-Post-Legal Complete Abandonment
+AB18,X-Post-Legal Complete Abandonment
+AB19,X-Post-Legal Complete Abandonment
+AB20,X-Post-Legal Complete Abandonment
+AB22,X-Post-Legal Complete Abandonment
+AB23,X-Post-Legal Complete Abandonment
+AB25,X-Post-Legal Complete Abandonment
+AB26,X-Post-Legal Complete Abandonment
+AB28,X-Post-Legal Complete Abandonment
+AB32,X-Post-Legal Complete Abandonment
+ABN/,Abandonment -- Inc. Application under Rule 53(b) - Filing Fee Not Paid
+ABN1,Abandonment -- Incomplete Application - Preexam
+ABN10,Abandonment after Examiner's Answer or PTAB Decision
+ABN11, Withdraw from Issue for Express Abandonment
+ABN2,Aband. for Failure to Respond to O. A.
+ABN3,Express Abandonment (during Examination)
+ABN4,Express Abandonment after Allowance
+ABN5,Aband. Recorded after Prior Disposal
+ABN6,Abandonment for Failure to Pay Issue Fee
+ABN7,Abandonment for Failure to Correct Drawings/Oath/NonPub Request
+ABN8,Abandonment -- Failure to Respond to 30-Day Property Rights Letter
+ABN9,Disposal for a RCE / CPA / R129
+ABNC,Abandonment -- Failure to Comply with Sequence Rules
+ABNF,Abandonment -- Inc. Application under Rule 53(b) - Filing Fee Paid
+ABNP,Preexam Abandonment
+ABNX,Abandonment -- During Preexam Processing
+AC11,X-Pre-Legal Complete Amended Case
+AC15,X-Pre-Legal Complete Amended Case
+AC16,X-Pre-Legal Complete Amended Case
+AC17,X-Pre-Legal Complete Amended Case
+AC18,X-Pre-Legal Complete Amended Case
+AC19,X-Pre-Legal Complete Amended Case
+AC20,X-Pre-Legal Complete Amended Case
+AC22,X-Pre-Legal Complete Amended Case
+AC23,X-Pre-Legal Complete Amended Case
+AC25,X-Pre-Legal Complete Amended Case
+AC26,X-Pre-Legal Complete Amended Case
+AC27,X-Pre-Legal Complete Amended Case
+AC28,X-Pre-Legal Complete Amended Case
+AC32,X-Pre-Legal Complete Amended Case
+AC33,X-Pre-Legal Complete Amended Case
+AC34,X-Pre-Legal Complete Amended Case
+ACKN,ACKN
+ACKNAHA,I.B. Acknowledged Receipt of Notice of Allowance (Hague)
+ACPA,Continuing Prosecution Application - Continuation (ACPA)
+ACRF,Response to a Letter to Comply with the Sequence Rules
+ADDDWRG,Omitted Drawing Sheets (Changes Filing Date)
+ADDFLFEE,Additional Application Filing Fees
+ADDSPEC,Omitted Specification Pages (Changes Filing Date)
+ADV.,Advisory Action Mailed
+AEOV,Accelerated Exam Over  
+AERQ,Accelerated Examination Request
+AF/D,Affidavit(s) (Rule 131 or 132) or Exhibit(s) Received
+AFAC,After Final Consideration Program Additional Consideration and/or updated search
+AFIR,After Final Consideration Program Improper Request
+AFNE,After Final Consideration Program Amendment too Extensive
+AFWC,Abandonment for Purposes of Filing an FWC - File Combined with Child Application
+AGYL,Letter from FDA or Dept of Agriculture re PTE application
+AISP,Suspension Letter- Applicant Initiated
+AL11,X-Post-Legal Complete Allowance
+AL15,X-Post-Legal Complete Allowance
+AL16,X-Post-Legal Complete Allowance
+AL17,X-Post-Legal Complete Allowance
+AL18,X-Post-Legal Complete Allowance
+AL19,X-Post-Legal Complete Allowance
+AL20,X-Post-Legal Complete Allowance
+AL22,X-Post-Legal Complete Allowance
+AL23,X-Post-Legal Complete Allowance
+AL25,X-Post-Legal Complete Allowance
+AL26,X-Post-Legal Complete Allowance
+AL27,X-Post-Legal Complete Allowance
+AL28,X-Post-Legal Complete Allowance
+AL32,X-Post-Legal Complete Allowance
+AL33,X-Post-Legal Complete Allowance
+ANOT,Notice of Allowability
+AP..,Protestor's Response to Non-Final Rejection
+AP.A,Amendment / Argument after PTAB Decision
+AP.B,Appeal Brief Filed
+AP.C,Request for Pre-Appeal Conference Filed
+AP.C3,Request for Pre-Appeal Conf. 3 Path
+AP.R,PTAB Remand to the Examiner
+AP/A,Amendment/Argument after Notice of Appeal
+AP/W,Request to Withdraw Appeal by Appellant
+APAF,AFFIDAVIT(S)/DECLARATION(S) OR EXHIBIT(S) AFTER NOTICE OF APPEAL (PRIOR TO PTAB DECISION)
+APAM,Amendment to the 41.50
+APAR,PTAB Administrator Remand to the Examiner
+APAS,Assignment of Appeal Number
+APBD,Notice  --  Defective Appeal Brief
+APBI,Defective / Incomplete Appeal Brief Filed
+APBP,Appeal Brief Filed by Protestor
+APBR,Appeal Brief Review Complete
+APCA,Pre-Appeal Conference Decision - Rejection Withdrawn
+APCD,Pre-Appeal Conference Decision - Request Defective
+APCH,Confirmation of Hearing by Appellant
+APCP,Pre-Appeal Conference Decision - Proceed to PTAB
+APCR,Pre-Appeal Conference Decision - Reopen Prosecution
+APCTH,Confirmation of Telephonic Hearing
+APCVH,Confirmation of Video Hearing
+APD1,Dec on Reconsideration - Denied
+APD2,Dec on Reconsideration - Granted
+APD3,Dec on Reconsideration - Granted in Part
+APDA,PTAB Decision - Examiner Affirmed
+APDP,PTAB Decision - Examiner Affirmed in Part
+APDR,PTAB Decision - Examiner Reversed
+APDS,Appeal Dismissed
+APDS.NGR,Appeal Dismissed - No response to NGR PTAB Decision
+APDT,PTAB Order for additional briefing or information
+APDTH,Decision Denying Telephonic Hearing
+APDVH,Decision Denying Video Hearing
+APDW,PTAB Decision vacating the previous decision
+APE2,2nd or Subsequent Examiner's Answer to Appeal Brief
+APEA,Examiner's Answer to Appeal Brief
+APFC,Appeal to a district or Federal Court filed with the PTAB
+APFD,Final Decision
+APGTH,Decision Granting Telephonic Hearing
+APGVH,Decision Granting Video Hearing
+APHC,Hearing Completed
+APHT,PTAB Oral Hearing Transcript
+APLD,Notification of Appeal Dismissal
+APLR,Notification of Appeal ReinStatement
+APLW,PTAB Appeal Dismissed / Withdrawn
+APND,Notice  --  Defective Notice of Appeal
+APNH,Notification of Appeal Hearing
+APNH.CA,"Notification Of Appeal Hearing- Silicon Valley, CA"
+APNH.CO,"Notification Of Appeal Hearing- Denver, CO"
+APNH.MI,"Notification Of Appeal Hearing- Detroit, MI"
+APNH.TX,"Notification Of Appeal Hearing- Dallas, TX"
+APNH.VA,"Notification Of Appeal Hearing -Alexandria, VA"
+APNR,Advisory on Non-Entry of Reply Brief
+APOC,Order of Compliance
+APOC_R,Applicant Response to Order
+APOH,Request for Oral Hearing
+APPD,Hearing Postponement Denied
+APPERMS,Applicants have given acceptable permission for participating foreign 
+APPG,Hearing Postponement Granted
+APPH,Postponement of Oral Hearing Request
+APPL,APPL
+APPR,PTAB Panel Remand to the Examiner
+APRB,Reply Brief Filed
+APRD,Order Returning Undocketed Appeal to the Examiner
+APRO,Applicant's Response to Protest
+APRR,Request for Reconsideration of Appeal Dec
+APRS,Application Made Available for Examination
+APRT,Case Returned from Examiner
+APSD,Supplement Decision
+APWD,Appeal Awaiting PTAB Docketing
+APWH,Waiver of Hearing by Appellant
+APXG,Request for Extension of Time - Granted
+AP_DK_M,Docketing Notice Mailed to Appellant
+AP_RRSP,Restart Response of PTAB action
+ARAP,Application returned by APJ
+ARBP,Appeal ready for PAC review
+ARPB,ARPB
+ARPR,ARPR
+ASGMT,"The identification of one or more legal entities other than the inventor(s), each such legal entity "
+ASIR,Approval of SIR Request
+B312,Workflow - 312 Amendment - Begin
+BATY,Workflow - Power of Attorney - Begin
+BCPA,Workflow - Request for CPA - Begin
+BD.A,Amendment/Argument after PTAB Decision
+BDRR,Request for Reconsideration of PTAB Decision
+BIDS,Workflow - Informational Disclosure Statement - Begin
+BIG.,Entity Status Set To Undiscounted (Initial Default Setting or Status Change)
+BNTF,Begin Notification to File Corrected Application Papers
+BPET,Workflow - Petition - Begin
+BRCE,Workflow - Request for RCE - Begin
+C.AD,Correspondence Address Change
+C.ADB,Correspondence Address Change
+C/MK,Request to Make of Record Noted Concerns in Granted Patent
+C/N=,Corrected Notice of Allowance
+C/NP,Corrected Notice of Allowance for PTA
+C/NW,Corrected Notice of Allowance
+C/R.,Request for Reconsideration / Clarification
+C105,Response to Rule 105 Communication
+C105-D,Requirement under Rule 105 Included with Office Action
+C105-D-P,Rule 105 after Allowance with Other Communication
+C105-I,"Rule 105, Independent Communication"
+C105-I-P,Requirement under Rule 105 after Allowance - Independent
+C106,C106
+C132,C132
+C600,Supplemental Papers - Oath or Declaration
+C602,Oath or Declaration Filed (Including Supplemental)
+C603,Paper Filed Supplying Applicant's Full Name
+C604,Substitute Specification Filed
+C605,Certified Translation of Specification Filed
+C608,Paper Claiming Foreign Priority (No Priority Papers Included)
+C610,Foreign Priority Papers Filed (May Include Priority Claim)
+C614,New or Additional Drawing Filed
+C680,Request for Corrected Notice of Allowance
+C685,Balance of Issue Fee Paid
+C690,Request for Certificate of Correction
+C694,Request for New or Replacement Patent Grant
+C844,Rule 704-Compliant Prior Art Citation Filed
+C9GR,COVID 19 Deferred Fee Provisional Program - Acceptance
+CCRDY,Application ready for PDX access by participating foreign offices
+CDAF,Court Decision - Affirmed
+CDEN,Post Issue Communication - Certificate of Correction Denied
+CFRPT,Corrected filing receipt
+CLAIM,Claim Preliminary Amendment
+CLCH,Claim Change
+CLMPCT1N,Claim comparison Ch I - not similar
+CLMPCT1S,Claim comparison Ch I - similar
+CLMPCT2S,Claim comparison Ch II - similar
+CLTI,Close TI
+CMAB,CMAB
+CNOA,Corrected Notice of Allowability
+CNTS,SIR Disposal credit
+COCM,Certificate of Correction Memo
+CODR,Commissioner Initiated Order for Reexam
+COFC,Application Is Considered for C of C
+COMP,Application Is Now Complete
+CONV,Pre_Exam Conversion
+CONVR,Pre-Exam Conversion
+CORI,Workflow - Incoming Correspondence - Begin
+CORM,Workflow - Incoming Correspondence - Finish
+CORP,PCT forwarded to TC
+CORRCHNG,Change of Address
+CORRDRW,Applicant has submitted new drawings to correct Corrected Papers problems
+CORRSPEC,Applicant has submitted a new specification to correct Corrected Papers problems
+CPA-AMD,RCE Amendment Informal or Non-Responsive
+CPAP,Corrected Paper
+CPICO,Response to PICO-CFR 1.11
+CPTO,Claims PTO
+CPYANNEX,Copy of Annexes to the International Preliminary Examination Report
+CPYART19,Copy of Article 19 Amendments
+CPYIA,Copy of the International Application
+CPYIPER,Copy of the International Preliminary Examination Report
+CPYISR,Copy of the International Search Report
+CPYREF,Copy of references cited in International Search Report
+CRCT,Count Credited to PCT Paralegal
+CRFA,Sequence Moved to Public Database
+CRFC,CRF Technically Sound and Matches Specification
+CRFD,CRF Is Flawed Technically / Not Entered into Database
+CRFE,CRF Is Good Technically / Entered into Database
+CRFF,Error(s) in CRF Corrected by STIC
+CRFI,CRF Sequence Lisitng Filed via EFS
+CRFL,CRF Disk Has Been Received by Preexam / Group / PCT
+CRFM,Request to Copy/Transfer CRF (37CFR1.821E)
+CRFN,CRF Does Not Match Application Specification -- Applicant Must Correct
+CRFP,Biotech Sequence Appeared in Patent
+CRFR,CRF Diskette Unreadable / Did Not Comply / Required but Not Submitted
+CRFT,Sequence Forwarded to Pubs on Tape
+CRFW,Sequence Withdrawn -- No CRF Required
+CRWD,CRWD
+CSRF,Workflow - Customer Service Request - Finish
+CSRI,Workflow - Customer Service Request - Begin
+CTAV,Advisory Action (PTOL-303)
+CTEQ,Quayle action
+CTFR,Final Rejection
+CTID,Interference Initial Memo Disposal
+CTIN,Interference Initial Memo Non-Disposal
+CTMS,Miscellaneous Action with SSP
+CTNF,Non-Final Rejection
+CTRS,Restriction/Election Requirement
+CTSF,PCT - Chapter 1 P210 / P237 (Full count)
+CTSH,PCT - Chapter 1 P210 / P237 (Half Count)
+D1220,Dispatch to Publications
+D1221,Dispatch to L&R
+D1935,Dispatch to FDC
+D5001,Dispatch from OIPE to Corps - U-P-R-D Application
+D5002,Set Re-exam to  Ready for Docketing
+D5003,Dispatch from PCT Operations -Chapter I
+DABN,Decision Noting Abandonment
+DC..,DC..
+DC/R,Decision of Request for Reconsideration / Clarification
+DCMP,DCMP
+DCPA,Continuing Prosecution Application - Divisional (DCPA)
+DCRF,CRF response - Non Bonafide
+DCRI,Decision Setting Period for Comment and/or Requirement for Information
+DCSP,DCSP
+DDSC,DDSC
+DDSI,DDSI
+DDSM,DDSM
+DDUT,DDUT
+DED.,Post Issue Communication - Dedicate Life of Patent to Public/Disclaimers
+DELD,Application Deleted from Examiner's Docket
+DERIVDEN,Derivation Denied
+DERIVDIS,Derivation Dismissed
+DERIVFWD,Derivation Final Written Decision
+DERIVGRT,Derivation Granted or Granted in Part
+DERIVPET,Petition Requesting Derivation
+DGCO,Application Ordered to Match Drawing(s)
+DGCR,Application Received to Match Drawing(s)
+DGM1,Drawing(s) Matched to Application
+DGM2,Drawing(s) Matched to Application
+DGM3,Drawing(s) Matched to Application
+DGM4,Drawing(s) Matched to Application
+DGM5,Drawing(s) Matched to Application
+DGM6,Drawing(s) Matched to Application
+DGM7,Drawing(s) Matched to Application
+DGM8,Drawing(s) Matched to Application
+DGM9,Drawing(s) Matched to Application
+DGP1,Drawing(s) Processing Completed
+DGP2,Drawing(s) Processing Completed
+DGP3,Drawing(s) Processing Completed
+DGP4,Drawing(s) Processing Completed
+DGP5,Drawing(s) Processing Completed
+DGP6,Drawing(s) Processing Completed
+DGP7,Drawing(s) Processing Completed
+DGP8,Drawing(s) Processing Completed
+DGP9,Drawing(s) Processing Completed
+DGR1,Mailroom Date of Drawing(s)
+DGR2,Mailroom Date of Drawing(s)
+DGR3,Mailroom Date of Drawing(s)
+DGR4,Mailroom Date of Drawing(s)
+DGR5,Mailroom Date of Drawing(s)
+DGR6,Mailroom Date of Drawing(s)
+DGR7,Mailroom Date of Drawing(s)
+DGR8,Mailroom Date of Drawing(s)
+DGR9,Mailroom Date of Drawing(s)
+DGU1,Drawing(s) Received at Publications
+DGU2,Drawing(s) Received at Publications
+DGU3,Drawing(s) Received at Publications
+DGU4,Drawing(s) Received at Publications
+DGU5,Drawing(s) Received at Publications
+DGU6,Drawing(s) Received at Publications
+DGU7,Drawing(s) Received at Publications
+DGU8,Drawing(s) Received at Publications
+DGU9,Drawing(s) Received at Publications
+DISC,DISC
+DISQ,Terminal Disclaimer Approved in TC
+DIST,Terminal Disclaimer Filed
+DKST,Case Docketed or Redocketed to Examiner in GAU
+DKTD,371 Application Preexamination Docketing
+DLYWAIVE,Request for immediate examination under 35 U.S.C. 371(f)
+DNS.,Decision -  Do Not Strike Application under 37 CFR 1.56(c)
+DOCK,Case Docketed to Examiner in GAU
+DP..,Request for Defensive Publication Filed
+DP.A,Request for Defensive Publication Approved
+DPAC,Preauthorization to Have Fees Charged to Deposit Account Recorded
+DR..,Decision - Application Returned for Examination
+DRAC,Decision - Action Refused under 37 CFR 1.56(c)
+DRAWING,Drawing Preliminary Amendment
+DRCDK,Rocket Docket Request Denied
+DRQS,Decision - Request to Lift Suspension Denied
+DRRI,Decision - Application Returned for Examination and Requirement for Information
+DRRJ,Decision - Rejection Refused under 37 CFR 1.56(d)
+DRWC,Workflow - Administrative Close of Drawing Set
+DRWF,Workflow - Drawings Finished
+DRWI,Workflow - Drawings Received at Contractor
+DRWM,Workflow - Drawings Matched with File at Contractor
+DRWR,Workflow - Drawings Sent to Contractor
+DRWS,Workflow - Complete WF Records for Drawings
+DSES,Decision on Request for Small Entity Status Change
+DSIR,SIR request Denied
+DSMP,DSMP
+DSUD,Suspension-Deferred Examination Request Denied or dismissed
+DT/G,Request for Additional Response Time Granted
+DUPL,Duplicate case has been deactivated
+DYWD,Applicant Delay Waived
+EA..,Examiner's Answer Mailed
+EA2.,Supplemental Examiner's Answer
+EABA,Acknowledgement of Express Abandonment
+EABN,Letter of Express Abandonment Filed
+EARB,Supplemental Examiner's Answer Mailed
+EAS.,Supplemental Examiner's Answer Mailed
+EASA,EASA
+EASE,EASE
+EASR,EASR
+EAST,EAST
+EASU,EASU
+EASY,EASY
+EFIL,Electronic Filing of Original Application Papers
+EIDS.,Electronic Information Disclosure Statement
+ELC.,Response to Election / Restriction Filed
+ELC_RVW,Electronic Review
+ELER,Notice of Final Determination -Election Required
+EML_NTF,Email Notification
+EML_NTR,Email Notification
+EMP.ACPT,Request to participate in missing parts pilot accepted
+EMP.AICR,EMP request accepted late.  Reply due 12 months from date of original notice
+EMP.RJCT,Request to participate in missing parts pilot rejected
+EOSP,to Close the A/R Record and Reset the Status for Expired Suspensions.
+EPQ.,Ex Parte Quayle Action Mailed
+EPRQ,PGPubs early publication request
+ESD,Examination support document
+EX.A,Examiner's Amendment Communication
+EX.R,Reasons for Allowance
+EXABN,Applicant has Expressly requested that the case be Abandoned
+EXAC,Interview Summary - Applicant Initiated - Conference
+EXAP,Interview Summary - Applicant Initiated - Personal
+EXAT,Interview Summary - Applicant Initiated - Telephonic
+EXEC,Interview Summary - Examiner Initiated - Conference
+EXEP,Interview Summary - Examiner Initiated - Personal
+EXET,Interview Summary - Examiner Initiated - Telephonic
+EXIA,Interview Summary- Applicant Initiated
+EXIE,Interview Summary - Examiner Initiated
+EXIN,Interview Summary Record
+EXP.,Expire Patent
+EXPRO,EXPIRED PROVISIONAL
+F...,XXXXX
+F312,Workflow - 312 Amendment - Finish
+F525,Flagged for 5/25
+FA01,X-Final Review Allowed
+FA02,X-Final Review Allowed
+FAIA,Pilot-First Action Interview Office Action (FAI Step 2)
+FAOO,Pilot-First Action (FA) without FA Interview (FAI Alternate Step 2)
+FATY,Workflow - Power of Attorney - Finish
+FCPA,Workflow - Request for CPA - Finish
+FEE.,"Fee Payment Recorded (fees filed separately e.g. not with original papers, etc)."
+FIDS,Workflow - Informational Disclosure Statement - Finish
+FILM,Application Captured on Microfilm
+FLASH,FLASH request granted
+FLFEE,Payment of additional filing fee/Preexam
+FLRCPT.C,Filing Receipt - Corrected
+FLRCPT.O,Filing Receipt
+FLRCPT.R,Filing Receipt - Replacement
+FLRCPT.U,Filing Receipt - Updated
+FNTF,Finish Notification to File Corrected Application Papers
+FOND,Case Found
+FPAY,Fee Payment Recorded
+FPET,Workflow - Petition - Finish
+FR02,X-Final Review Rejected
+FRCE,Workflow - Request for RCE - Finish
+FREF,Final Refusal of SIR Request
+FTFB,FITF set to NO - benefit/priority claim(s) to appln filed before 3/16/2013
+FTFC,FITF set to YES - a claim w/ EFD on/after 3/16/2013 was filed
+FTFD,FITF set to YES - deleted all benefit/priority claims(s) to applns filed before 3/16/2013
+FTFE,FITF set to NO - claimed benefit to appln where FITF status was changed to NO
+FTFF,FITF set to YES - 1.55/1.78 statement filed
+FTFI,FITF set to NO - revise initial setting
+FTFN,FITF set to NO - a claim w/ EFD on/after 3/16/2013 was NEVER filed
+FTFP,FITF set to NO - petition for earlier filing date before 3/16/2013 granted
+FTFR,1.55/1.78 statement retracted
+FTFS,FITF set to YES - revise initial setting
+FTFY,FITF  set to YES - claimed benefit to appln that is a FITF case
+FTZ,FITF set to NO - 1.55/1.78 statement retracted
+FWDX,Date Forwarded to Examiner
+FWRO,Forwarded to Receiving Office
+G011,Preexamination Location Change
+G012,Preexamination Location Change
+G013,Preexamination Location Change
+G015,Preexamination Location Change
+G016,Preexamination Location Change
+G018,Preexamination Location Change
+G01A,Preexamination Location Change
+G021,Preexamination Location Change
+G022,Preexamination Location Change
+G023,Preexamination Location Change
+G024,Preexamination Location Change
+G025,Preexamination Location Change
+G026,Preexamination Location Change
+G027,Preexamination Location Change
+G028,Preexamination Location Change
+G029,Preexamination Location Change
+G02C,Preexamination Location Change
+G02D,Preexamination Location Change
+G031,Preexamination Location Change
+G033,Preexamination Location Change
+G034,Preexamination Location Change
+G035,Preexamination Location Change
+G036,Preexamination Location Change
+G037,Preexamination Location Change
+G038,Preexamination Location Change
+G039,Preexamination Location Change
+G03A,Preexamination Location Change
+G03B,Preexamination Location Change
+G03C,Preexamination Location Change
+G03D,Preexamination Location Change
+G03P,Preexamination Location Change
+G03V,Preexamination Location Change
+G03W,Preexamination Location Change
+G03Z,Preexamination Location Change
+G050,Preexamination Location Change
+G26A,Preexamination Location Change
+G29M,Preexamination Location Change
+G29P,Preexamination Location Change
+GPRD,Glossary Request Dismissed/Denied
+GPRG,Glossary Pilot Request Granted
+GRCDK,Rocket Docket Request Granted
+GWPR,Patent Case
+HTTR,Hague Treaty Transmittal Review
+I.D.,Declaration of Interference
+I106,I106
+I132,I132
+I202,Notice under Rule 202
+I231,Motion under Rule 231
+IACN,Amendment Copying Claims - Not in Response to Examiner Suggesting Claims
+IACS,Amendment Copying Claims - Response to a Letter Suggesting Claims
+IBP,An Unknown International Bureau Paper identified during conversion of History from the A16
+IBP.,IBP.
+IBPM,IB Paper Match
+ICPA,CPA filing - Incomplete
+ICRF,Incomplete Response to a Letter to Comply with Sequence Rules
+ID/A,Interference Decision on Priority - Adverse
+ID/F,Interference Decision on Priority - Favorable
+ID/M,Decision on Motion
+ID/S,Interference Dissolved before Decision
+IDS.,Information Disclosure Statement Filed
+IDSC,Information Disclosure Statement considered
+IDSPTA,PTA statement filed under PTA1.704(d) with IDS
+IDTC,Interference dispatch to TC
+IEXX,Initial Exam Team nn
+IFEE,Issue Fee Payment Received
+IFEEHA,Issue Fee Data Received from I.B. (Hague)
+IM..,Initial Interference Memorandum
+IMAR,Initial Memorandum under APJ review
+IMMD,Cancer Immunotherapy Request Dismissed/Denied
+IMMG,Cancer Immunotherapy Request Granted
+IMMR,Cancer Immunotherapy Request
+INC/,Notice of Incomplete Application - Filing Date Not Assigned
+INCC,Miscellaneous Commissioner's Communication Re: Preexamination Requirements
+INCD,Notice Mailed--Application Incomplete--Filing Date Assigned 
+INCOR,Interview Request Correction
+INCR,Notice of Incomplete Reply
+INFODSCL,Information Disclosure Statements
+INFR,Notice of Informal Application - OIPE
+INFRAP,Petition to make special under the  Infrastructure Program
+INHD,Declaration of Interference Hearing
+INTNO,Interference Notification to Patentee Rule 607
+IPPC,Incoming Request For Prosecution Pilot Conference
+IPR.DOCK,Case  Docketed to Examiner
+IPR2BPAI,Appealed case awaiting PTAB Decision - PALM status
+IPRPUBS,Terminated; Released to Pubs. For Issuance of Reexam Certificate
+IRCE,Improper Request for Continued Examination
+IRFND,Request for Refund
+IS/C,Letter Suggesting Claims for Interference
+ISFN,Informal or Incomplete SIR - Final Notice
+ISIR,Informal or Incomplete SIR
+J490,Notice and Reasons for Appeal to CAFC - Review of PTAB Decision
+J493,Appeal to CAFC
+J494,Request for Extension of Time to File CAFC Appeal
+J495,Extension of Time Granted to File CAFC Appeal
+J496,Extension of Time Denied to File CAFC Appeal
+J498,Notice of Civil Action to District Court - Review of PTAB Decision
+J500,Notice of Civil Action to District Court
+J502,Appeal to Court of Appeals
+J504,Appeal to Supreme Court
+J506,Court Processing Initiated
+J507,Court Processing Terminated
+J509,Answer to Appellant's Brief
+J509O,Solicitor Answer to Appellant's Brief
+J510,Motion for Summary Judgement
+J510O,Solicitor Motion for Summary Judgement
+J511,Appellant's Brief on Appeal
+J512,Appellant's Complaint
+J513,Appendix to Appellant's Brief
+J514,Appellant's Reply Brief
+J517,Appellee Motion in District Court
+J517O,Solicitor - Appellee Motion in District Court
+J519,Miscellaneous Plaintiff Filing
+J520,Abandonment Vacated 
+J521,Amicus Brief Received
+JA01,Decision by CAFC - Affirmed
+JA02,Decision by CAFC - Affirmed in Part
+JA03,Decision by CAFC - Reversed
+JA04,Decision by CAFC - Remanded
+JA05,Decision by Court of Appeals - Dismissed - on Plaintiff's/Appellant's Motion
+JA06,Decision by Court of Appeals - Dismissed - on Defendant's/Appellee's Motion
+JA07,Decision by Court of Appeals - Dismissed - By Stipulation
+JA08,Decision by CAFC - Dismissed
+JA09,Decision by Court of Appeals - Dismissed - for Lack of Prosecution
+JA10,Decision by Court of Appeals - Dismissed - Other
+JA94,Request for Extension of Time to Appeal to CAFC
+JA95,Extension of Time Granted to Appeal to CAFC
+JD01,Decision in Civil Action - Affirmed
+JD03,Decision in Civil Action - Reversed
+JD04,Decision in Civil Action - Remanded
+JD05,JD05
+JD06,JD05
+JD07,Decision in Civil Action - Dismissed - By Stipulation
+JD08,Decision in Civil Action - Dismissed by Court
+JD10,Decision in Civil Action - Dismissed - Other
+JD94,Request for Extension of Time to Appeal to District Court
+JD95,Extension of Time Granted to Appeal to District Court
+JM02,JM02
+JM03,Mandate Reversed
+JM04,Mandate Remanded
+JM06,Mandate Dismissed - on Defendant's/Appellee's Motion
+JM09,Mandate Dismissed - for Lack of Prosecution
+JM10,Mandate Dismissed - Other
+JS01,Decision by the Supreme Court - Affirmed
+JS12,Petition for Certiorari Denied
+JS13,Petition for Certiorari Received
+L.Q.,Letter of Inquiry Filed
+L.SI,Suspension - Interference in Another Case
+L.SP,Suspension - Examiner Initiated
+L.XT,Letter regarding Extension of Time
+L/RD,Letter Acknowledging That an Improper Paper Has Been Returned/Destroyed
+L115,Security Classification Markings Recorded
+L119,Application Found Licensable
+L126,Auto Referred by PALM Pre Exam
+L127,Intentionally Referred by OIPE or L&R
+L128,Cleared by L&R (LARS)
+L130,Receipt of all Acknowledgement Letters
+L132,Secrecy Order Imposed
+L133,Secrecy Order Renewed
+L134,Secrecy Order Rescinded
+L135,Security Classification Markings Removed
+L136,Decision - Secrecy Order Petition Denied
+L137,Decision - Secrecy Order Petition Granted
+L138,Receipt of Secrecy Order Petition
+L139,Secrecy Order Petition Mailed to Agency
+L150,Request or Renewed Request for Regular License
+L151,Request for Retroactive License
+L152,Renewed Request for Retroactive License
+L153,Grant Request for Retroactive License
+L154,Deny Request for Retroactive License
+L155,Grant Request for Regular License
+L156,Deny Request for Regular License
+L157,Suspend Request for License (Regular or Retroactive)
+L158,Dismiss Request for Regular License
+L159,Dismiss Request for Retroactive License
+L160,Inquiry under 35 USC 185 - Re: Foreign Filing
+L161,Response to Inquiry under 35 USC 185
+L170,Referred for NASA Property Rights review by L&R LARS
+L171,Referred for DOE Property Rights review by L&R LARS
+L172,Request for a Suspension of Action to Supply a Statement (37 CFR 1.103(a))
+L173,Grant Suspension of Action to Supply a Statement  (37 CFR 1.103(a))
+L174,Deny Suspension of Action to Supply a Statement (37 CFR 1.103(a))
+L175,Applicant response received
+L176,Advisory Incomplete Statement mailed
+L177,30-day DOE or NASA Property Rights Letter mailed
+L178,Response to 30-day Letter
+L179,Letter to Applicant - Re: Bar
+L180,Agency Letter - Re: Bar
+L181,90-Day Letter to NASA
+L182,90-Day Letter to DOE
+L183,Acknowledgment of Receipt of 90-Day Letter
+L184,Government Interest Decision in Response to 90-Day Letter (Incl. Directive)
+L185,No Government Interest - Patent to Issue to Applicant (No Letter to Applicant)
+L186,Letter to Applicant - No government Interest / Patent to Issue
+L187,Letter to Applicant - Re: Government Interest Claimed
+L188,Letter to Applicant - Patent to Issue to Government
+L189,Request for Hearing on Government Interest
+L190,Memo to Board of Interferences - Re: Government Interest Interference
+L191,Letter to Agency - Patent to Issue to Government
+L192,Agency Letter - Re: Waiver of Government Interest Processing
+L193,Agency Letter - Re: Government Interest (Not in Response to 90-Day Letter)
+L194,Cleared by OIPE CSR
+L196,Referred by L&R for Third-Level Security Review. Agency Referral Letter Generated
+L197,Receipt of Acknowledgment Letter
+L198,Referred to Level 2 (LARS) by OIPE CSR
+L200,Deferred
+L272,Request Extension of Time to File Retroactive License
+L273,Grant Extension of Time to File Retroactive License
+L285,XXXXX
+L372,Request for Extension of Time to Supply a Response to an Inquiry Letter under 35 USC 185
+L373,Grant of an Extension of Time to Supply a Response to an Inquiry Letter under 35 USC 185
+LBRC,LBRC
+LBRV,LBRV
+LCON,Letter Confirming Prior Applicant Response Filed
+LET.,Miscellaneous Incoming Letter
+LFFOUND,File Marked Found
+LFLOST,File Marked Lost
+LFNOREC,Determination - No Reconstruction of File to Occur
+LFRCANL,Reconstruction Canceled
+LFRCOMP,Reconstruction Completed
+LFRECON,Reconstruction of File - Begin
+LNTA,Allowance after Previous Allowance Count - L & R Processing
+LOST,Case Reported Lost
+LQ..,"LETTER OF INQUIRY RE OFFICE ACTION (RE: MISSING REFERENCES, UNDATED, ETC.) FILED"
+LR501,Letter Returning Improper 1.501 Submission
+LRO501,Letter Acknowledging Receipt of 1.501 Submission by Patent Owner.
+LRT501,Letter Acknowledging Receipt of 1.501 Submission by Third Party
+LT/G,Letter Granting Request for Extension of Time
+LTDR,Incoming Letter Pertaining to the Drawings
+M102,M102
+M133,M133
+M1551,"Payment of Maintenance Fee, 4th Year, Large Entity"
+M1552,"Payment of Maintenance Fee, 8th Year, Large Entity"
+M1553,"Payment of Maintenance Fee, 12th Year, Large Entity"
+M1554,"Surcharge for Late Payment, Large Entity"
+M1555,"7.5 yr surcharge - late pmt w/in 6 mo, Large Entity"
+M1556,"11.5 yr surcharge- late pmt w/in 6 mo, Large Entity"
+M1558,"Surcharge, Petition to Accept Pymt After Exp, Unintentional"
+M1559,Payment of Maintenance Fee under 1.28(c)
+M2510,Mail Reconstruction Notice - Pending Application
+M2511,Mail Reconstruction Notice - Abandoned Application
+M2512,Mail Reconstruction Notice - Patented Application
+M2551,"Payment of Maintenance Fee, 4th Yr, Small Entity"
+M2552,"Payment of Maintenance Fee, 8th Yr, Small Entity"
+M2553,"Payment of Maintenance Fee, 12th Yr, Small Entity"
+M2554,"Surcharge for late Payment, Small Entity"
+M2555,"7.5 yr surcharge - late pmt w/in 6 mo, Small Entity"
+M2556,"11.5 yr surcharge- late pmt w/in 6 mo, Small Entity"
+M2558,"Surcharge, Petition to Accept Pymt After Exp, Unintentional."
+M327,Miscellaneous Communication to Applicant - No Action Count
+M327-1,PUB Acknowledgement of NOA
+M327-2,PUB Acknowledgement Domestic Priority
+M327-3,PUB Acknowledgement Title
+M327-4,PUB Acknowledgement 1449
+M327-5,PUB Acknowledgement Color Drawing
+M327-6,PUB Acknowledgement Drawing
+M327-7,PUB Acknowledgement Interest Statement
+M327-8,PUB Acknowledgement Inventor ship
+M327-9,PUB Acknowledgement Denial of Associate Power of Attorney
+M327-A,PUB Notice of drawing inconsistency with specification 
+M327-B,PUB Notice of non-compliant IDS
+M327-C,PUB Notice of Rescinded Abandonment
+M327-D,PUB Other miscellaneous communication to applicant
+M327-E,PTAB miscellaneous communication to applicant
+M327-F,PUB Acknowledgement of Foreign Priority Papers
+M327-G,POST ISSUE OTHER COMMUNICATION TO APPLICANT- CERTIFICATE OF CORRECTION
+M327-O,PUBS Notice Requiring Inventors Oath or Declaration
+M327-W,PUBS Letter Withdrawing a Notice Requiring Inventors Oath or Declaration
+M3551,"Payment of Maintenance Fee, 4th Year, Micro Entity"
+M3552,"Payment of Maintenance Fee, 8th Year, Micro Entity"
+M3553,"Payment of Maintenance Fee, 12th Year, Micro Entity"
+M3554,"Surcharge for Late Payment, Micro Entity"
+M3555,"Surcharge for Late Payment, Micro Entity"
+M3556,"Surcharge for Late Payment, Micro Entity"
+M3558,"Surcharge, Petition to Accept Pymt After Exp, Unintentional"
+M840,Request for Corrected Filing Receipt Filed
+M844,Information Disclosure Statement (IDS) Filed
+M844-1,IDS with 1 mo. certification statement
+M852,Letter to Official Draftsman Filed P/E
+M856,Letter Requesting Suspension of Prosecution
+M865,Letter Requesting Interview with Examiner
+M865E,Electronic request for Examiner Interview
+M903,Notice of DO/EO Acceptance Mailed
+M905,Notice of DO/EO Missing Requirements Mailed
+M906,Notice of DO/EO Missing Requirements for 102(E) Date Mailed
+M907,Notice of DO/EO Acceptance for 102(E) Date Mailed
+M909,Notice of DO/EO Abandonment Mailed.
+M912,Notice of Insufficient Basic National Fee and/or Missing Copy of International Application
+M916,Notice of DO/EO Defective Response Mailed.
+M922,Sequence disclosure problems
+M923,371 Supplemental Fees Missing - Form M923
+MA.IX,Mail of Withdraw of Informal Amendment Notice
+MABN,Abandonment Mailed
+MABN10,Mail of Abandonment after Examiner's Answer or PTAB Decision
+MABN2,Mail Abandonment for Failure to Respond to Office Action
+MABN3,Mail Express Abandonment (During Examination)
+MABN4,Mail Express Abandonment after Allowance
+MABN5,Mail  Abandonment after Prior Disposal
+MABN6,Mail Abandonment for Failure to Pay Issue Fee
+MABN7,Mail Abandonment for Failure to Correct Drawings/Oath
+MABNP,Mail Preexam Abandonment
+MAFAC,Mail After Final Consideration Program Additional Consideration and/or updated search
+MAFIR,Mail After Final Consideration Program Improper Request
+MAFNE,Mail After Final Consideration Program Amendment too Extensive
+MAISP,Mail Letter Suspending Prosecution at Applicant's Request
+MAP.R,MAIL PTAB Remand to the Examiner
+MAP/W,RX - Mail Withdrawal of Appeal
+MAPCA,Mail Appeals conf. Rej. withdrawn
+MAPCD,Mail Appeals conf. Request Defective
+MAPCP,Mail Appeals conf. Proceed to PTAB
+MAPCR,Mail Appeals conf. Reopen Prosec.
+MAPD1,Mail PTAB Decision on Reconsideration - Denied
+MAPD2,Mail PTAB Decision on Reconsideration - Granted
+MAPD3,Mail - Dec on Reconsideration - Granted in Part
+MAPDA,Mail PTAB Decision on Appeal - Affirmed
+MAPDN,Mail - PTAB Decision with new grounds of rejection
+MAPDP,Mail PTAB Decision on Appeal - Affirmed in Part
+MAPDR,Mail PTAB Decision on Appeal - Reversed
+MAPDS,Appeal Dismissed - Mailed
+MAPDSNGR,Mail Appeal Dismissed - No response to NGR PTAB Decision
+MAPDT,Mail PTAB Order for additional briefing or information
+MAPDTH,Mail Decision Denying Telephonic Hearing
+MAPDVH,Mail Decision Denying Video Hearing
+MAPDW,Mail PTAB Decision vacating the previous decision
+MAPE2,Mail Supplemental Examiner's Answer
+MAPEA,Mail Examiner's Answer
+MAPGTH,Mail Decision Granting Telephonic Hearing
+MAPGVH,Mail Decision Granting Video Hearing
+MAPHT,Mail PTAB Oral Hearing Transcript
+MAPNR,Mail Advisory of Non-Entry of Reply Brief
+MAPOR,Mail PTAB Order
+MAPPD,Mail Hearing Postponement Denied
+MAPPG,Mail - Hearing Postponement Granted
+MAPPR,Mail PTAB Panel Remand to the Examiner
+MAPSD,Mail Supplement Decision
+MASD,Master Docket Assignment
+MC/N=,Mail Corrected Notice of Allowance
+MC/NW,Mail Corrected Notice of Allowance (Response period NOT restarted)
+MC105-D,Mail Rule 105 Communication with Office Action
+MC105-I,Mail Independent Rule 105 Communication
+MC105DP,Mail Rule 105 Communication with Office Action after Allowance
+MC105IP,Mail Independent Rule 105 Communication after Allowance
+MC9GR,Mail COVID 19 Deferred Fee Provisional Program - Acceptance
+MCNOA,Mailing Corrected Notice of Allowability
+MCNTS,Mail Sir Disposal Acknowledgment
+MCOCM,Mail Certificate of Correction Memo
+MCPA,CPA- Missing parts Communication
+MCPA-AMD,Mail Notice of Informal or Non-Responsive RCE Amendment
+MCRFR,"Mail Letter Requiring CRF (Unreadable, Non-Compliant, Not Submitted)"
+MCTAV,Mail Advisory Action (PTOL - 303)
+MCTEQ,Mail Ex Parte Quayle Action (PTOL - 326)
+MCTFR,Mail Final Rejection (PTOL - 326)
+MCTMS,Mail Miscellaneous Communication to Applicant
+MCTNF,Mail Non-Final Rejection
+MCTRS,Mail Restriction Requirement
+MDCRF,Mail Non-Bonafide Response to Sequence Request
+MDEFT,RX - Mail Notice of Defective Paper
+MDRCDK,Mail Rocket Docket Request Denied
+MDSUD,Mail Suspension-Deferred Examination Request Denied or dismissed
+MENC,Notice of non-compliant micro entity certification request
+MERRA,Mail PTAB Appeal Erratum
+MERRP,Mail PTAB Preappeal Erratum
+MEX.A,Mail Examiner's Amendment
+MEX.R,Mail Reasons for Allowance
+MEXAC,Mail Interview Summary - Applicant Initiated - Conference
+MEXAP,Mail Interview Summary - Applicant Initiated - Personal
+MEXAT,Mail Interview Summary - Applicant Initiated - Telephonic
+MEXEC,Mail Interview Summary - Examiner Initiated - Conference
+MEXEP,Mail Interview Summary - Examiner Initiated - Personal
+MEXET,Mail Interview Summary - Examiner Initiated - Telephonic
+MEXIA,Mail Applicant Initiated Interview Summary
+MEXIE,Mail Examiner Initiated Interview Summary
+MEXIN,Mail Examiner Interview Summary (PTOL - 413)
+MFAIA,Mail First Action Interview Office Action
+MFAOO,Mail First Action without Interview
+MFREF,Mail Final Refusal of SIR
+MGPRD,Mail Glossary Request Dismissed/Denied
+MGPRG,Mail Glossary Pilot Request Granted
+MGRCDK,Mail Rocket Docket Request Granted
+MICPA,Mail Incomplete CPA Notification
+MICR,Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29
+MID/A,Mail Interference Decision - Adverse
+MID/F,Mail Interference Decision - Favorable
+MID/S,Mail Interference Decision - Dismissed
+MIMMD,Mail Cancer Immunotherapy Request Dismissed/Denied
+MIMMG,Mail Cancer Immunotherapy Request Granted
+MINTO,Mail Interference Notification to Patentee Rule 607
+MIPNF,RX - Mail Inter Partes  Non-Final Office Action
+MIPXD,RX - Mail Inter Partes Reexam Order - Denied
+MIPXO,RX - Mail Inter Partes Reexam Order - Granted
+MISC,Miscellaneous Office Action Mailed
+ML.SI,Mail Suspension Due to Interference in Another Application
+ML.SP,Mail Letter of Suspension
+ML170,Request for Applicant Statement Regarding Potential NASA Interest (45-Day Letter) Mailed
+ML171,Request for Applicant Statement Regarding Potential DOE Interest  (45-Day Letter) Mailed
+ML196,Agency Referral Letter Mailed
+MLAP,Search Application Mailed
+MLIB,Record Copy Mailed
+MLR501,Letter Returning Improper 1.501 Submission - Mailed
+MLRO501,Letter Acknowledging Receipt of 1.501 Submission by Patent Owner- Mailed
+MLRT501,Letter Acknowledging Receipt of 1.501 Submission by Third Party - Mailed
+MM327,Mail Miscellaneous Communication to Applicant
+MM327-1,Mail PUB Acknowledgement of NOA
+MM327-2,Mail PUB Acknowledgement Domestic Priority
+MM327-3,Mail PUB Acknowledgement Tile
+MM327-4,Mail PUB Acknowledgement 1449
+MM327-5,Mail PUB Acknowledgement Color Drawing
+MM327-6,Mail PUB Acknowledgement Drawing
+MM327-7,Mail PUB Acknowledgement Interest Statement
+MM327-8,Mail PUB Acknowledgement Inventor ship
+MM327-9,Mail PUB Acknowledgement Denial of Associate Power of Attorney
+MM327-A,Mail Notice of drawing inconsistency with specification 
+MM327-B,Mail PUB Notice of non-compliant IDS
+MM327-C,Mail PUB Notice of Rescinded Abandonment
+MM327-D,Mail PUB   other miscellaneous communication to applicant
+MM327-E,Mail PTAB miscellaneous communication to applicant
+MM327-F,Mail PUB Acknowledgement of Foreign Priority Papers
+MM327-G,Mail Pub Notice re 312 amendment
+MM327-O,Mail PUBS Notice Requiring Inventors Oath or Declaration
+MM327-W,Mail PUBS Letter Withdrawing a Notice Requiring Inventors Oath or Declaration
+MMCPA,Mail Notice of Missing Parts CPA
+MMIS,Miscellaneous Letter Mailed
+MN/=.,Mail Notice of Allowance
+MN/BD,Mail  Biological Deposit Required
+MN/DR,Mail  Formal Drawings Required
+MN/OD,Mail Oath of Declaration Required
+MN271,Mail Response to 312 Amendment (PTO-271)
+MN561,Mail Notification - Applicant Due Refund (PTOL 319)
+MN574,Mail Notification of Terminal Disclaimer - Accepted
+MN575,Mail Notification of Terminal Disclaimer - Not Accepted
+MNCDR,Mail Notice of non-compliant drawings filed separately
+MNCID,Mail IDS Notice of Consideration
+MNCIR,Mail Noncompliant First Action Interview
+MNCRF,Mail Incomplete Response to Sequence Rule Request
+MND10,Mail D10 Notice (L & R)
+MNFDR,Mail Notice of Formal Drawings Required
+MNFEE,Mail Notice of Required Fees Due
+MNOIC,Mail Notice of Imported Citations
+MNPEX,Mail Preexam Notice
+MNPRL,Mail Non-Compliant Preliminary Amendment
+MNRAB,Mail Notice of Rescinded Abandonment
+MNRES,Mail Notice of Restarted Response Period
+MODPD,Mail ODM Petition Decision
+MODPD10,Mail M327-D  PUB OTHER MISCELLANEOUS COMMUNICATION TO APPLICANT
+MODPD15,Mail PUB NOTICE OF DRAWING INCONSISTENCY WITH SPECIFICATION
+MODPD17,Mail PUB NOTICE OF RESCINDED ABANDONMENT
+MODPD22,MAIL PUB ACKNOWLEDGEMENT INVENTOR SHIP
+MODPD25,MAIL PUB ACKNOWLEDGEMENT DRAWING
+MODPD26,MAIL NOTICE TO FILE CORRECTED APPLICATION PAPERS - VACATED
+MODPD27,MAIL NOTICE OF NON-COMPLIANT IDS - VACATED
+MODPD28,MAIL ISSUE FEE RETURNED UNPAID
+MODPD29,MAIL PETITION DECISION - 1.138 D
+MODPD30,MAIL PETITION DECISION - 1.138 C
+MODPD31,MAIL PATENT WITHDRAWAL NOTICE
+MODPD32,Mail M327-D -PUBS OTHER MISCELANEOUS COMMUNICATION TO APPLICANT
+MODPD33,Mail NTC.USIFEE-NOTICE REGUARDING UNSIGNED 85B FORM
+MODPD:1,Mail DISMISSED - Decision to Accept Color Drawings under 37 CFR 1.84(a)(2)
+MODPD:2,Mail DISMISSED - Decision for Express Abandonment Petition Decision under 37 CFR  1.138(c)
+MODPD:3,Mail DISMISSED - Abandonment Petition Decision under 37 CFR 1.138 (d)
+MODPD:4,Mail GRANTED - Decision to Accept Color Drawings under 37 CFR 1.84(a)(2)
+MODPD:5,Mail GRANTED - Express Abandonment Petition Decision under 37 CFR  1.138(c)
+MODPD:6,Mail GRANTED - Express Abandonment Petition Decision under 37 CFR 1.138 (d)
+MODPD:7,Mail Notice of Improper Letter of Express Abandonment under 1.138(a)
+MODPD:8,Mail Letter Withdrawing a Notice Requiring Inventor Oath or Declaration
+MODPET1,MAIL PREV - 503 PETITION TO REVIVE APPLICATION - GRANTED
+MODPET10,Mail PETITION DECISION VACATED - 1.138D/1.138C
+MODPET11,Mail PETITION DECISION DISMISSED - 37 CFR 1.221(a)
+MODPET12,Mail PETITION DECISION DISMISSED-37 CFR 1.221(b)
+MODPET3,MAIL PREV - 1.81 PETITION TO REVIVE APPLICATION - GRANTED
+MODPET4,MAIL PREV - 1.81 PETITION TO REVIVE APPLICATION - DISMISSED
+MODPET7,MAIL PREV - 711.03 PETITION TO REVIVE APPLICATION - GRANTED 
+MODPET8,MAIL PREV - 711.03 PETITION TO REVIVE APPLICATION - DISMISSED
+MODPET9,MAIL PETITION DECISION DISMISSED - INSUFFICIENT RESPONSE
+MOPPT,Mail O.P. Petition Decision
+MP001,Mail-Record Petition Decision of Granted to Revive for Continuity
+MP002,Mail-Record Petition Decision of Granted to Suspend an Action
+MP003,Mail-Record Petition Decision of Granted to Make Special
+MP004,Mail-Record Petition Decision of Granted to Reinstate an Appeal
+MP005,Mail-Record Petition Decision of Granted to Accept Delayed Payment of Issue Fee
+MP006,Mail-Record Petition Decision of Granted to Withdraw from Issue
+MP007,Mail-Record Petition Decision of Granted to Withdraw from Issue for Express Abandonment
+MP008,Mail-Record Petition Decision of Granted Related to Attorney
+MP009,Mail-Record Petition Decision of Granted Related to International Filing Date
+MP010,Mail-Record Petition Decision of Granted Related to Filing Date
+MP011,Mail-Record Petition Decision of Granted Related to Inventor in Patent
+MP012,Mail-Record Petition Decision of Granted Related to Inventor in Application
+MP013,Mail-Record Petition Decision of Granted to Make Entity Status Small
+MP014,Mail-Record Petition Decision of Granted to Make Entity Status large
+MP015,Mail-Record Petition Decision of Granted to Withdraw from Issue - with assigned Patent NO.
+MP016,Mail-Record Petition Decision of Granted Related to Entering Priority Papers
+MP017,Mail-Record Petition Decision of Granted from Denial of Reexamination Request
+MP018,Mail-Record Petition Decision of Granted Related to Entering Incoming Correspondence
+MP019,Mail-Record Petition Decision of Granted Related to Certificate of Correction
+MP020,Mail-Record Petition Decision of Granted for Extension of Time in Reexamination
+MP022,Mail-Record Petition Decision of Granted to Merge Multiple Reexamination Proceedings
+MP023,Mail-Record a Petition Decision of Granted to Issue Patent in Name of the Assignee
+MP024,Mail-Record a Petition Decision of Granted for Commissioner-Initiated Reexam Rroceeding
+MP025,Mail-Record a Petition Decision of Granted for Patent Term Adjustment after Allowance
+MP026,Mail-Record a Petition Decision of Granted for Patent Term Adjustment after Issue
+MP027,Mail-Record a Petition Decision of Granted to Defer Issuance of Patent
+MP030,Mail-Record Petition Decision of Granted Related to Conversion
+MP031,Mail-Record Petition Decision of Granted to Withdraw ssue for Express Abandonment - with assigned Pa
+MP032,Mail-Mail Petition to Revive Application For Continuity Purposes- Granted
+MP033,Mail-Petition Decision - Granted
+MP034,Mail-Petition Decision - Granted
+MP203,Mail PCT Form 203
+MP205,PCT Chapter I Mail  Form 205
+MP206,Mail PCT Chapter I Form 206
+MP207,PCT Chapter I Mail P207 Action
+MP209,PCT Chapter I Mail P209 Action
+MP210,Mail International Search Report
+MP211,PCT Chapter I Mail P211 Action
+MP212,PCT Chapter I Mail P212 Action
+MP216,PCT Chapter I Mail P216 Action
+MP217,PCT Chapter I Mail P217 Action
+MP218,PCT Chapter I Mail P218 Action
+MP225,PCT Chapter I Mail P225 Action Response Required
+MP232,PCT Chapter I Mail P232 Action
+MP327,Mail Acknowledgement of Priority Papers
+MP327-P,Mail Acknowledgement of Priority Papers-Pub
+MP3DS,Mail Third Party IDS communication
+MP574,Mail Paralegal TD Accepted
+MP575,Paralegal TD Not accepted
+MPCRO,Mail Prosecution Conference Pilot -  Reopen Prosecution
+MPCRP,Mail Prosecution Conference Pilot -  Rejection Proper
+MPDCI,Mail Pet Dec Routed to Certificate of Corrections Branch
+MPDDM,Mail Pet Dec Routed to ODM (PUBS)
+MPDLR,Mail Pet Dec License and Review Out
+MPDOE,Mail Pet Dec Routed to OPAP (OIPE)
+MPDPH,Mail Pet Dec PPH Decision
+MPDRT,Mail Pet Dec Routed to Tech Center
+MPDTD,Mail Pet Dec Track 1 Deny
+MPDTG,Mail Pet Dec Track 1 Grant
+MPDX,Priority Document Exchange Notice Mailed
+MPEAC,Mail Post-examiner ans. com
+MPEN,Mail Pre-Exam Notice
+MPETDEC,Petition Decision Notice Mailed
+MPFA,Mail Pre-interview First Office Action
+MPICO,Mail Pre-Interview Communication
+MPMFD,Mail-Petition Decision - Accept Late Payment of Maintenance Fees - Denied
+MPMFG,Mail-Petition Decision - Accept Late Payment of Maintenance Fees - Granted
+MPMFS,Mail-Petition Decision - Accept Late Payment of Maintenance Fees -  Dismissed
+MPMRIA,Mail PX-Micro entity Request Improper Request by Attorney
+MPREFD,Mail PX-Denial of Request for Refund
+MPREV,Mail-Petition to Revive Application - Granted
+MPTDE,Mail-Petition Decision - Denied
+MPTDE-1,Mail-Petition Decision - Denied
+MPTDI,Mail-Petition Decision - Dismissed
+MPTDI-1,Mail-Petition Decision - Dismissed
+MPTDIPTA,Mail-Petition Decision - Dismissed
+MPTGP,Mail-Petition Decision - Granted in Part
+MPTGP-1,Mail-Petition Decision - Granted in Part
+MPTGR,Mail-Petition Decision - Granted
+MPTGR-1,Mail-Petition Decision - Granted
+MQPRO,Mail Quick Path IDS Reopen Prosecution
+MQRCE,Mail Quick Path IDS Examiner-directed entry of RCE
+MR.NF,RX - Mail Reexam Non-Final Action
+MR327,RX - Mail Miscellaneous Communication to Applicant
+MR574,RX - Mail Notification of Terminal Disclaimer - Accepted
+MR575,RX - Mail Notification of Terminal Disclaimer - Not Accepted
+MRACP,RX - Mail Reexam - Action Closing Prosecution.
+MRADV,RX - Mail Reexam - Advisory Action (or Supplemental)
+MRAEA,RX - Mail Examiners Answer
+MRAN.,RX - Mail Right of Appeal Notice
+MRAPD,RX - Mail Notice of Appeal - Defective or Unacceptable
+MRAPR,RX - Mail Advisory of Nonentry of Reply Brief
+MRAPS,RX - Mail Supplemental examiners answer to appeal brief
+MRAPW,RX - Mail Withdrawal/Dismissal of Appeal
+MRBNE,Mail Reply Brief Noted by Examiner
+MRCCP,RX - Mail Concurrent Proceedings Notice
+MRDCL,RX - Mail Decision Lifting the Stay of Reexam Proceedings
+MRDCP,RX - Mail Decision Merging Inter Partes & Ex Parte Proceedings (code for EPR case)
+MRDMF,RX - Mail Decision Merging Reexam Proceedings
+MRDPT,"RX - Mail Decision on Petition Denied, Inter partes Reexam Terminated"
+MRDRI,RX - Mail Decision Merging Reexam and Reissue Proceedings -- Reissue Application
+MRDRX,RX - Mail Decision Merging Reexam and Reissue Proceedings -- Reexam
+MRDTY,RX - Mail Decision Staying Reexam Proceedings
+MREA2,RX - Mail Supplemental Examiners Answer
+MREPE,RX - Mail Examiners Answer
+MREPQ,RX - Mail Ex Parte Quayle Action
+MREXA,RX - Mail Examiners Amendment
+MREXD,RX - Mail Ex Parte Request for Reexamination Denied
+MREXN,RX - Mail Examiner Interview Summary Record
+MREXO,RX - Mail Ex Parte Request for Reexamination Granted
+MREXV,RX - Mail Decision Vacating a Determination Ordering a Reexam
+MRGACTIV,Merged Active File into Found File.
+MRGE,Files Merged
+MRGFOUND,Merge Found File into Reconstructed File
+MRGRECON,Merged Reconstructed File into Found File.
+MRICR,RX - Mail Notice of Incomplete Ex Parte Reexam Request
+MRIFD,RX - Mail Incomplete Ex Parte Reexam Request (Filing Date vacated)
+MRILD,RX - Mail Improper Letter Destroyed
+MRINA,RX - Mail Notification of Informal or Nonresponsive Amendment
+MRLSP,RX - Mail Letter of Suspension - Examiner Initiated
+MRMRD,RX - Mail Dissolved Merged Reexam and Reissue Proceedings
+MRMTM,RX - Mail Termination by Mailing Allowance in Merged Reissue
+MRNCR,RX - Mail Notice of Non-Compliant Ex Parte Reexamination Request
+MRNRC,RX - Mail Notice of Intent to Issue a Reexam Certificate
+MRNSME,RX - Mail Non-Compliant Statement of Small Entity Status
+MRPTD,RX - Mail Petition Decision Denying Reexamination
+MRPTG,RX - Mail Petition Decision Ordering Reexamination
+MRPVC,RX - Mail Decision vacating inter partes reexam
+MRPWP,RX - Mail Pilot Waiver Program - Ex Parte  Interview Summary
+MRRBN,RX - Mail Reply Brief Noted by examiner
+MRRD,decision dissolving merger reexam
+MRRES,"RX - Mail Letter Restarting Period Of Response - e.g., Letter re References, remail"
+MRRI,"Decision Merging Reexamination and Reissue Proceedings, Reissue Application"
+MRSEN,SE - Mail Notice of Intent to Issue Reexam Certificate- Supplemental Exam
+MRTDE,RX - Mail Petition Decision - Denied
+MRTDI,RX - Mail Petition Decision - Dismissed
+MRTGP,RX - Mail Petition Decision - Granted-in-part
+MRTGR,RX - Mail Petition Decision - Granted
+MRTRM,RX - Mail Termination of Reexam Proceedings
+MRTRS,RX - Mail Mail Requirement for Restriction / Election
+MRWAC,RX - Mail Letter Withdrawing/Vacating Office Action
+MRWNC,RX - Mail Withdrawal of Notice of Intent to Issue Reexamination Certificate
+MRXAI,RX - Mail Informal / NonResponsive Amendment after Examiner Action
+MRXD.,RX - Mail Extension of Time Period for Response Denied
+MRXEAS,RX - Mail Supplemental Examiners Answer to Appeal Brief
+MRXFR,RX - Mail Final Rejection
+MRXG.,RX - Mail Extension of Time Period for Response Granted
+MRXN,Reexamination Formalities Notice Mailed
+MRXPR,RX - Mail Termination of  PreProcessing of Ex Parte Rexxamination Request
+MRXSEC,SE - Mail Reexamination SE Certificate
+MRXTG,RX - Mail Extension of Time Granted
+MSADV,Mail Supplemental Advisory Action
+MSCIR,Mail Noncompliant FAI
+MSCSS,Misc Special Soft Scanning- No Mailing
+MSEAB,SE - Mail Supplemental Examination Paper Held In Abeyance
+MSEDE,SE - Mail Supplemental Examination Petition Denied
+MSEDI,SE - Mail Supplemental Examination Petition Dismissed
+MSEFD,SE - Mail Notice of Filing Date Assigned to SE Request
+MSEGP,SE - Mail Supplemental Examination Petition Granted In Part
+MSEGR,SE - Mail Supplemental Examination Petition Granted
+MSEIN,SE - Mail Supplemental Examination Incomplete (No Filing Date)
+MSEMI,SE - Mail Miscellaneous Decision/Office Notice in SE
+MSEPA,SE - Mail Denial of Power of Attorney - Reexam and Supp Exam
+MSEPQ,Mail Supplemental Ex parte Quayle Action
+MSERO,SE - Mail Reexam Ordered Based on Supplemental Examination
+MSETM,SE - Mail Termination of pre-processing of SE Request (No Filing Date)
+MSEVC,SE - Mail Supplemental Examination - Notice Vacating Filing Date
+MSEXP,SE - Mail Expunge Improper Paper Filed In SE
+MSFR.,Mail Supplemental Final Rejection
+MSML,Appl Has Filed a Verified Statement of Micro to Small Entity Status
+MSNQN,SE - Mail Supplemental Examination Certificate -- SNQ No
+MSNQY,SE - Mail Supplemental Examination Certificate -- SNQ Yes
+MSPCT,Mailing Supplemental PCT Action
+MSREA,SE - Mail Reasons for New Question of Patentability Determination
+MSRES,Mail Supplemental Restriction / Election Requirement
+MSRNF,Mail Supplemental Non-Final Action
+MT1GR,Mail Track 1 Request Granted
+MT1NC,Mail Track 1 Noncompliant Request
+MTCPT,Mail TC Petition Decision
+MTCPTD,Mail TC Petition Denied / Dismissed
+MTCPTG,Mail TC Petition Granted
+MW/AC,Mail Notice of Withdrawn Action
+MXAPT,RX - Mail Determination on Resp/Comments Aft PTAB Dec w/New Ground of Rej 
+MXIRC,RX - Mail Notice of Intent to Issue Reexam Certificate
+N.84,PTOL-85B Received. Issue Fee Previously Recorded
+N/=.,Notice of Allowance Data Verification Completed
+N/=A,Notice of Allowance Printed with Examiner's Amendment
+N/=F,Notice of Allowance with Issue Fee Charged to Deposit Account
+N/AP,Notice of Appeal Filed
+N/AP-NOA,Notice of Appeal Filed After NOA
+N/BD,Biological Deposit Required
+N/DR,Formal Drawings Required
+N/OD,Oath or Declaration Required
+N066,Notice of Balance of Issue Fee Due (PTO-1031)  - Charged to Deposit Account
+N067,Notice of Balance of Issue Fee Due (PTO-1031) - Billing Required
+N069,Notice of Lapse of Patent/Failure to Pay Balance of Issue Fee (PTOL-311)
+N075,Mail Notice of Abandonment from Publications
+N084,Issue Fee Payment Verified
+N123HA,Notification Under Rule 12(3)(d) (Hague)
+N129,Rule 129 Informational Notice Mailed
+N271,Response to Amendment under Rule 312
+N311,Requirement for Certified Translation of Specification
+N312,Partial Entry of Amendment - Divisional Application Rule 147
+N315,Notice of Additional Filing Fee Due and Formal Drawings Required
+N416,Notice of Withdrawal from Issue Branch (PTOL-67)
+N417,Status Letter Mailed to Applicant
+N418,Drawings Have Been Misplaced
+N419,Misplaced Drawings Have Been Found
+N421,Notice of Rescinded Abandonment (PTOL-393)
+N422,Request for Duplicate of Priority Papers (PTOL-406)
+N423,Post Issue Communication - Certificate of Correction
+N424,Request for Certificate of Correction
+N426,Notification of Return of Papers - Re: Request for Certificate of Correction (PTOL-396)
+N427,Post Allowance Communication Transaction to Record Incoming Correspondence
+N459,Notice to Patentee under 37 CFR 1.607(D)
+N560,Amendment Received - Fee Due (PTOL-319)
+N561,Amendment Received - Applicant Due Refund
+N570,Communication - Re: Power of Attorney (PTOL-308)
+N572,Response - Re: Informal Power of Attorney (PTOL-308)
+N574,Notification of Terminal Disclaimer - Accepted
+N575,Notification of Terminal Disclaimer - Not Accepted
+N578,Notification of Withdrawal of Attorney
+NABN,Notice of Abandonment
+NAPI,Defective/Not Acceptable Notice of Appeal
+NC01,X-Pre-Legal Complete New Case
+NC11,X-Pre-Legal Complete New Case
+NC15,X-Pre-Legal Complete New Case
+NC16,X-Pre-Legal Complete New Case
+NC17,X-Pre-Legal Complete New Case
+NC18,X-Pre-Legal Complete New Case
+NC19,X-Pre-Legal Complete New Case
+NC20,X-Pre-Legal Complete New Case
+NC22,X-Pre-Legal Complete New Case
+NC23,X-Pre-Legal Complete New Case
+NC25,X-Pre-Legal Complete New Case
+NC26,X-Pre-Legal Complete New Case
+NC27,X-Pre-Legal Complete New Case
+NC28,X-Pre-Legal Complete New Case
+NC32,X-Pre-Legal Complete New Case
+NC33,X-Pre-Legal Complete New Case
+NC34,X-Pre-Legal Complete New Case
+NCDR,Notice of non-compliant drawings filed separately
+NCID,IDS Notice of Consideration
+NCIR,Noncompliant First Action Interview
+NCRF,CRF Response Incomplete
+ND10,D-10 Notice (L & R Case)
+NFDE,Notice of Final Determination -Eligible
+NFDI,Notice of Final Determination- Ineligible
+NFDR,Notice of Formal Drawings Required
+NFEE,Fee (additional) Due Notice
+NINA,Mail Notice of Informal or Non-Responsive Amendment
+NLIM,Notice of lost Image document
+NOCA,Notice of Court Action
+NOIC,Notice of Imported Citations
+NOIFIBHA,Issue Fee not Paid Directly to I.B. (Hague)
+NOSE,APPLICANT HAS FILED A STATEMENT OF SMALL ENTITY STATUS THAT IS NOT IN COMPLIANCE WITH 37 CFR 1.27.
+NPEX,Preexam Notice
+NPICO,Response to PICO-no interview
+NPRL,Non-Compliant Preliminary Amendment
+NPRQ,PGPubs nonPub Request
+NR206,PCT Chapter I No Response Received For Unity of Invention
+NR225,PCT Chapter I No Response Received For Sequence Requirment
+NRAB,Notice of Rescinded Abandonment in TCs
+NRE.,Notice of Reissue Published in Official Gazette
+NRES,Letter Restarting Period for Response (i.e. Letter re References)
+NRX.,Notice of Reexam Published in Official Gazette
+NUNT,Notice of Untimely Request
+NWREIBHA,Receipt of New Application from I.B. (Hague)
+O/PT,Submission of Original Patent Grant
+O501,1.501 Submission by Patent Owner
+OATHDECL,"A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+ODPD,ODM Petition Decision
+ODPD10,M327-D  PUB OTHER MISCELLANEOUS COMMUNICATION TO APPLICANT
+ODPD15,PUB NOTICE OF DRAWING INCONSISTENCY WITH SPECIFICATION
+ODPD17,PUB NOTICE OF RESCINDED ABANDONMENT
+ODPD22,PUB ACKNOWLEDGEMENT INVENTOR SHIP
+ODPD25,PUB ACKNOWLEDGEMENT DRAWING
+ODPD26,NOTICE TO FILE CORRECTED APPLICATION PAPERS - VACATED
+ODPD27,NOTICE OF NON-COMPLIANT IDS - VACATED
+ODPD28,ISSUE FEE RETURNED UNPAID
+ODPD29,PETITION DECISION ? Dismissal PreExam Abandonment -1.138(d) and/or 1.138(c)
+ODPD30,PETITION DECISION - 1.138 C
+ODPD31,PATENT WITHDRAWAL NOTICE
+ODPD32,M327-D -PUBS OTHER MISCELANEOUS COMMUNICATION TO APPLICANT
+ODPD33,NTC.USIFEE-NOTICE REGUARDING UNSIGNED 85B FORM
+ODPD:1,DISMISSED - Decision to Accept Color Drawings under 37 CFR 1.84(a)(2)
+ODPD:2,DISMISSED - Decision for Express Abandonment Petition Decision under 37 CFR  1.138(c)
+ODPD:3,DISMISSED - Abandonment Petition Decision under 37 CFR 1.138 (d)
+ODPD:4,GRANTED - Decision to Accept Color Drawings under 37 CFR 1.84(a)(2)
+ODPD:5,GRANTED - Express Abandonment Petition Decision under 37 CFR  1.138(c)
+ODPD:6,GRANTED - Express Abandonment Petition Decision under 37 CFR 1.138 (d)
+ODPD:7,Notice of Improper Letter of Express Abandonment under 1.138(a)
+ODPD:8,Letter Withdrawing a Notice Requiring Inventor Oath or Declaration
+ODPET1,PREV - 503 PETITION TO REVIVE APPLICATION - GRANTED
+ODPET10,PETITION DECISION VACATED - 1.138D/1.138C
+ODPET11,PETITION DECISION DISMISSED - 37 CFR 1.221(a)
+ODPET12,PETITION DECISION DISMISSED-37 CFR 1.221(b)
+ODPET3,PREV - 1.81 PETITION TO REVIVE APPLICATION - GRANTED
+ODPET4,PREV - 1.81 PETITION TO REVIVE APPLICATION - DISMISSED
+ODPET7,PREV - 711.03 PETITION TO REVIVE APPLICATION - GRANTED 
+ODPET8,PREV - 711.03 PETITION TO REVIVE APPLICATION - DISMISSED
+ODPET9,PETITION DECISION DISMISSED - INSUFFICIENT RESPONSE
+ODRWNFD,Ommited Drawings.  Applicant has Petitioned that the Filing Date not be changed and the Petition has
+OIPE,Application Dispatched from OIPE
+OMIT,Notice of Omitted Items
+OPPT,O.P. Petition Decision
+OR.T,OR.T
+OSC.,OSC.
+OSPECNFD,Ommited Specification Pages.  Applicant has Petitioned that the Filing Date not be changed and the P
+P002,Record Petition Decision of Granted to Suspend an Action
+P003,Record Petition Decision of Granted to Make Special
+P004,Record Petition Decision of Granted to Reinstate an Appeal
+P005,Record Petition Decision of Granted to Accept Delayed Payment of Issue Fee
+P006,Record Petition Decision of Granted to Withdraw from Issue
+P007,Record Petition Decision of Granted to Withdraw from Issue for Express Abandonment
+P008,Record Petition Decision of Granted Related to Attorney
+P009,Record Petition Decision of Granted Related to International Filing Date
+P010,Record Petition Decision of Granted Related to Filing Date
+P011,Record Petition Decision of Granted Related to Inventor in Patent
+P012,Record Petition Decision of Granted Related to Inventor in Application
+P013,Record Petition Decision of Granted to Make Entity Status Small
+P014,Record Petition Decision of Granted to Make Entity Status large
+P015,Record Petition Decision of Granted to Withdraw from Issue - with assigned Patent NO.
+P016,Record Petition Decision of Granted Related to Entering Priority Papers
+P019,Record Petition Decision of Granted Related to Certificate of Correction
+P020,Record Petition Decision of Granted for Extension of Time in Reexamination
+P023,Record a Petition Decision of Granted to Issue Patent in Name of the Assignee
+P025,Record a Petition Decision of Granted for Patent Term Adjustment after Allowance
+P026,Record a Petition Decision of Granted for Patent Term Adjustment after Issue
+P027,Record a Petition Decision of Granted to Defer Issuance of Patent
+P028,Adjustment of PTA Calculation by PTO
+P029,Adjustment of PTE Calculation by PTO
+P030,Record Petition Decision of Granted Related to Conversion
+P031,Record Petition Decision of Granted to Withdraw ssue for Express Abandonment - with assigned Patent
+P032,Petition to Revive Application For Continuity Purposes- Granted
+P033,Petition Decision - Granted
+P034,Petition Decision - Granted
+P102,Notification Concerning Payment of Fees
+P103,Invitation to Correct Purported International Application
+P104,Notification That Application Not Treated as Intntl. Appl.
+P105,Notification of Intntl. Appl. Number and Intntl. Filing Date
+P106,Invitation to Correct Defects
+P107,Notification of Non-Inclusion of Drawings
+P108,FORM DELETED
+P109,Notification of Decision Concerning Request for Rectification
+P110,Invitation to Correct Priority Date or Cancel Priority Claim
+P111,Notification of Correction or Cancellation of Priority Claim
+P112,Notification Concerning Expression
+P113,Request for Recording a Change
+P114,Notification on Decision of Confirmation of Incorporation by Reference Of Element
+P115,Notification of Intention to Make Declaration of Withdrawal
+P116,Notification of Designations Considered to be Withdrawn
+P117,Notification That Intntl. Application Considered Withdrawn
+P119,Notification of Refund of Fees
+P120,FORM DELETED
+P121,FORM DELETED
+P123,Notification Concerning Representation
+P124,Notification of Defective POA or Defective Revocation of POA
+P125,FORM DELETED
+P126,Notification Concerning Later Submitted Sheets/Drawings
+P127,FORM DELETED
+P131,FORM DELETED
+P132,Miscellaneous Communication
+P133,Invitation to Pay Fees and Late Fee
+P134,FORM DELETED
+P135,FORM DELETED
+P136,Notification of Withdrawal
+P137,FORM DELETED
+P138,Communication Regarding Extension of Time
+P139,Notification of Confirmation of Precautionary Designations
+P140,FORM DELETED
+P141,FORM DELETED
+P142,FORM DELETED
+P143,Notification That Intntl. Appl. Considered to be Withdrawn
+P144,FORM DELETED
+P145,FORM DELETED
+P146,Notification of Ex-officio correction
+P147,Notification Concerning Failure to Forward Record Copy
+P148,FORM DELETED
+P149,FORM DELETED
+P150,Invitation to Furnish Translation
+P151,Notification of Transmittal of Intntl. Appl. to IB as RO
+P152,Invitation to Authorize Transmittal of Intntl. Appl. to IB as RO
+P156,Invitation to Correct Declarations Made in Request
+P158,Notification of Intended Refusal of Request to Restore Right of Priority
+P159,Notification of Decision on Request to Restore Right of Priority
+P160,FORM DELETED
+P166,FORM DELETED
+P202,Notification of Receipt of Search Copy
+P203,PCT - Chapter 1 Form 203 (Declaration of Non-Establishment of ISR)
+P205,PCT - Chapter 1 Form 205 (Notification of Modification of Abstract)
+P206,PCT - Chapter 1 Form 206 (Invitation to Pay Additional Fees)
+P207,PCT - Chapter 1 Form 207 (Informal Clarification)
+P209,Notification of Facts Related to Recordation of Filing Date
+P210,International Search Report Ready to be Mailed
+P211,Notification of Transmittal of Copies of Cited Documents
+P212,PCT - Chapter 1 Form 212 (Notification of Decision on Protest)
+P216,Invitation to Request Rectification
+P217,Notification of Decision Concerning Req. for Rectification
+P218,PCT - Chapter 1 Form 218 (Notification Concerning Expressions)
+P224,General Communication - No Other Forms Applicable
+P225,Invitation to Furnish Sequence Listing
+P232,Notification Concerning File Papers or Documents
+P237,ISA Written Opinion
+P299,P299
+P327,Priority Paper Acknowledgement
+P327-P,Acknowledgement of Priority Papers-Pub
+P3DS,Third Party IDS communication
+P412,Notification of Decision Concerning Req. for Rectification
+P4S8,P4S8
+P574,PARALEGAL OR ELECTRONIC TERMINAL DISCLAIMER APPROVED
+P575,Paralegal TD Not accepted
+P903,P903
+PA..,Change in Power of Attorney (May Include Associate POA)
+PA.B,Change in Power of Attorney (May Include Associate POA)
+PACC,Exam. Ans. Review Complete
+PACK,Acknowledgement of Priority Papers
+PC/I,Power to Make Copies and/or Inspect
+PCH1T,PCT Ch. 1 Transcription
+PCOM,Completion of Preprocessing - Released to Assigned GAU
+PCONVR,Petition to Convert Provisional to Regular
+PCRD,Prosecution Conference Pilot -  Request Defective
+PCRO,Prosecution Conference Pilot -  Reopen Prosecution
+PCRP,Prosecution Conference Pilot -  Rejection Proper
+PCS,"A cover letter for a provisional application, containing much of the information that would otherwis"
+PCTA,PCTA
+PCTB,PCTB
+PCTC,PCTC
+PCTE,Search Report Mailed to International Bureau
+PCTFR,PCT Formality Review
+PCTP,PCT Processed
+PCTR,PCTR
+PCTS,PCTS
+PD.FAIL,Final PDX/DAS request for priority document has failed
+PD.RECVD,Priority document has successfully retrieved via PDX/DAS
+PDCI,Pet Dec Routed to Certificate of Corrections Branch
+PDDM,Pet Dec Routed to ODM (PUBS)
+PDLR,Pet Dec License and Review Out
+PDOE,Pet Pet Dec Routed to OPAP (OIPE)
+PDOR,Priority Document Ordered
+PDPH,Pet Dec PPH Decision
+PDREQUST,Request from applicant for the USPTO to retrieve the Priority Document
+PDRT,Pet Dec Routed to Tech Center
+PDTD,Pet Dec Track 1 Deny
+PDTG,Pet Dec Track 1 Grant
+PEAC,Post-examiner ans. com
+PET.,Petition Entered
+PET1,Petition Entered
+PET2,Petition Entered
+PETD,Petition Decision - Denied
+PETG,Petition Decision - Granted
+PETR,Request for Reconsideration of Petition Decision
+PFA,PILOT - Pre-Interview Communication
+PFP,petition fee paid
+PG-ISSUE,PG-Pub Issue Notification
+PG-PB-DT,PG-Pub Notice of new or Revised projected publication date
+PG-RQST,PG-Pub Request
+PG-SUBM,PG-Pub Submission
+PGM/,Recordation of Patent Grant Mailed
+PGM/COC,Recordation of Patent Grant Mailed - Certificate of Correction
+PGM/D,Recordation of Patent Grant Mailed - Duplicate Letters Patent Mailed
+PGM/R,Recordation of Patent Grant Mailed - Remailed
+PGPC,Sent to Classification Contractor
+PGPW,Waiting LR clearance
+PICO,Pre-Interview Communication (FAI Step 1)
+PICS,XXXXX
+PILS,Application Is Considered Ready for Issue
+PILX,Application Removed from Issue-Ready Status
+PL47,Petition Flag Set at Petitions Office
+PM00,PM00
+PM01,PM01
+PM02,PM02
+PM03,PM03
+PM04,PM04
+PM05,PM05
+PM06,PM06
+PM07,PM07
+PM08,PM08
+PM09,PM09
+PM10,PM10
+PM11,PM11
+PM12,PM12
+PM13,PM13
+PM14,PM14
+PM15,PM15
+PM16,PM16
+PM17,PM17
+PM18,PM18
+PM19,PM19
+PM20,PM20
+PM21,PM21
+PM22,PM22
+PM23,PM23
+PM24,PM24
+PM25,PM25
+PM26,PM26
+PM27,PM27
+PM28,PM28
+PM29,PM29
+PM30,PM30
+PM31,PM31
+PM32,PM32
+PM33,PM33
+PM34,PM34
+PM35,PM35
+PM36,PM36
+PM37,PM37
+PM38,PM38
+PM39,PM39
+PM40,PM40
+PM41,PM41
+PM42,PM42
+PM43,PM43
+PM44,PM44
+PM45,PM45
+PM46,PM46
+PM47,PM47
+PM48,PM48
+PM49,PM49
+PM50,PM50
+PM51,PM51
+PM52,PM52
+PM53,PM53
+PM54,PM54
+PM55,PM55
+PM56,PM56
+PM57,PM57
+PM58,PM58
+PM59,PM59
+PM60,PM60
+PM61,PM61
+PM62,PM62
+PM63,PM63
+PM64,PM64
+PM65,PM65
+PM66,PM66
+PM67,PM67
+PM68,PM68
+PM69,PM69
+PM70,PM70
+PM71,PM71
+PM72,PM72
+PM73,PM73
+PM74,PM74
+PM75,PM75
+PM76,PM76
+PM77,PM77
+PM78,PM78
+PM79,PM79
+PM80,PM80
+PM81,PM81
+PM82,PM82
+PM83,PM83
+PM84,PM84
+PM85,PM85
+PM86,Priority Document Mailed to IB
+PM87,PM87
+PM88,PM88
+PM89,PM89
+PM90,PM90
+PM91,PM91
+PM92,PM92
+PM93,PM93
+PM94,PM94
+PM95,PM95
+PM96,PM96
+PM97,PM97
+PM98,PM98
+PM99,PM99
+PMFD,Petition Decision - Accept Late Payment of Maintenance Fees - Denied
+PMFG,Petition Decision - Accept Late Payment of Maintenance Fees - Granted
+PMFP,Petition to Accept Late Payment of Maintenance Fee Payment Filed
+PMFS,Petition Decision - Accept Late Payment of Maintenance Fees -  Dismissed
+PMFX,Maintenance Fee Related Petition Received at Location Other Than D/AC Patents
+PMRIA,PX-Micro entity Request Improper Request by Attorney
+POSTCARD,A self-addressed post card (having the applicant's address) received with a patent application for t
+PPET,Paralegal Petition Decision
+PR00,PR00
+PR01,PR01
+PR02,PR02
+PR03,PR03
+PR04,PR04
+PR05,PR05
+PR06,PR06
+PR07,PR07
+PR08,PR08
+PR09,PR09
+PR10,PR10
+PR11,PR11
+PR12,PR12
+PR13,PR13
+PR14,PR14
+PR15,PR15
+PR16,PR16
+PR17,PR17
+PR18,PR18
+PR19,PR19
+PR20,PR20
+PR21,PR21
+PR22,PR22
+PR23,PR23
+PR24,PR24
+PR25,PR25
+PR26,PR26
+PR27,PR27
+PR28,PR28
+PR29,PR29
+PR30,PR30
+PR31,PR31
+PR32,PR32
+PR33,PR33
+PR34,PR34
+PR35,PR35
+PR36,PR36
+PR37,PR37
+PR38,PR38
+PR39,PR39
+PR40,PR40
+PR41,PR41
+PR42,PR42
+PR43,PR43
+PR44,PR44
+PR45,PR45
+PR46,PR46
+PR47,PR47
+PR48,PR48
+PR49,PR49
+PR50,PR50
+PR51,PR51
+PR52,PR52
+PR53,PR53
+PR54,PR54
+PR55,PR55
+PR56,PR56
+PR57,PR57
+PR58,PR58
+PR59,PR59
+PR60,PR60
+PR61,PR61
+PR62,PR62
+PR63,PR63
+PR64,PR64
+PR65,PR65
+PR66,PR66
+PR67,PR67
+PR68,PR68
+PR69,PR69
+PR70,PR70
+PR71,PR71
+PR72,PR72
+PR73,PR73
+PR74,PR74
+PR75,PR75
+PR76,PR76
+PR77,PR77
+PR78,PR78
+PR79,PR79
+PR80,PR80
+PR81,PR81
+PR82,PR82
+PR83,PR83
+PR84,PR84
+PR85,PR85
+PR86,PR86
+PR87,PR87
+PR88,PR88
+PR89,PR89
+PR90,PR90
+PR91,PR91
+PR92,PR92
+PR93,PR93
+PR94,PR94
+PR95,PR95
+PR96,PR96
+PR97,PR97
+PR98,PR98
+PR99,PR99
+PRAR,PRAR
+PREAMND,Preliminary Amendments
+PREFD,PX-Denial of Request for Refund
+PREV,Petition to Revive Application - Granted
+PRIR,Paralegal Reissue Review Complete
+PROT,Protest - 3rd Party (before publication or with applicant's consent)
+PRTI,Potential Restriction Telephonic Interview
+PRXR,Paralegal Reexam Review Complete
+PST_CRD,Mail Post Card
+PTA.RFE,Patent Term Adjustment - Ready for Examination
+PTABTC,Appeal Not ready for PTAB Review (Regular)
+PTAC,Patent Issue Date Used in PTA Calculation
+PTDE,Petition Decision - Denied
+PTDE-1,Petition Decision - Denied
+PTDI,Petition Decision - Dismissed
+PTDI-1,Petition Decision - Dismissed
+PTDI-ABC,Dismissed - Petition for express abandonment under rule 37 CRF 1.138(c)
+PTDI-ABD,Dismissed -Petition for express abandonment under rule 37 CRF 1.138(d)
+PTDI-PTA,Petition Decision - Dismissed
+PTEC,Patent Term Extension Certificate
+PTED,Patent Term Extension (156) Dismissed
+PTEELRN,Election in Response to Notice of Final Determination
+PTEF,transaction for FDA Determination of Regulatory Review Period
+PTEFDAF,FDA Final Eligibility Letter
+PTEI,Interim Patent Term Extension Granted
+PTEINFO,Requirement for information sent under 37 CFR 1.750
+PTEIR,PTE Interim Patent Extension filed
+PTEL,Letter re PTE application to FDA or Dept of Agriculture
+PTELT1,Initial letter Re: PTE Application to regulating agency
+PTELT2,Second letter to regulating agency to determine regulatory review period 
+PTER,Patent Term Extension Application under 35 USC 156 Filed
+PTERCN,37 CFR 1.750 Request for reconsideration
+PTERESP,Resp. to req. for info. sent under 37 CFR 1.750
+PTEW,Withdrawal of Application for PTE
+PTEWVE,PTE *Waiver of time period for requesting reconsideration
+PTGP,Petition Decision - Granted in Part
+PTGP-1,Petition Decision - Granted in Part
+PTGR,Petition Decision - Granted
+PTGR-1,Petition Decision - Granted
+PTGR-ABC,Granted - Petition for express abandonment under rule 37 CRF 1.138(c)
+PTGR-ABD,Granted - Petition for express abandonment under rule 37 CRF 1.138(d)
+PTRD,Decision on Request for Reconsideration of Petition Decision- Denied
+PTRE,Decision on Request for Reconsideration of Petition Decision - Granted
+PTRF,Partial Refusal Hague Treaty
+PTRG,Decision on Request for Reconsideration of Petition Decision - Granted
+PTRO,No Entity Code Definition No Entity Code Definition
+PTRP,Decision on Request for Reconsideration of Petition Decision - Granted-in-Part
+PUBTC,Pubs Case Remand to TC
+QPREQ,Quick Path IDS Request
+QPRO,Quick Path IDS Reopen Prosecution
+QRCE,Quick Path IDS Examiner-directed entry of RCE
+R1021,Receipt into Pubs
+R105,Response to Rule 105 Required for Information Filed
+R106,R106
+R129,Request under Rule 129 to Reopen Prosecution
+R1551,"Refund - Payment of Maintenance Fee, 4th Year, Large Entity"
+R1552,"Refund - Payment of Maintenance Fee, 8th Year, Large Entity"
+R1553,"Refund - Payment of Maintenance Fee, 12th Year, Large Entity"
+R1554,"Refund - Surcharge for Late Payment, Large Entity"
+R1555,"Refund - 7.5 yr surcharge - late pmt w/in 6 mo, Large Entity"
+R1556,"Refund - 11.5 yr surcharge - late pmt w/in 6 mo, Large Entity"
+R1558,"Refund - Surcharge, Petition to Accept Pymt After Exp, Unintentional"
+R1559,Refund - Payment of Maintenance Fee under 1.28(c)
+R155X,1.55/1.78 Indicator set
+R206,PCT Chapter I Miscellaneous Response
+R223,R223
+R225,PCT Chapter I Response Received For Sequence Requirment
+R2551,"Refund - Payment of Maintenance Fee, 4th Yr, Small Entity"
+R2552,"Refund - Payment of Maintenance Fee, 8th Yr, Small Entity"
+R2553,"Refund - Payment of Maintenance Fee, 12th Yr, Small Entity"
+R2554,"Refund - Surcharge for late Payment, Small Entity"
+R2555,"Refund - 7.5 yr surcharge - late pmt w/in 6 mo, Small Entity"
+R2556,"Refund - 11.5 yr surcharge- late pmt w/in 6 mo, Small Entity"
+R2558,"Refund - Surcharge, Petition to Accept Pymt After Exp, Unintentional."
+R26P,R26P
+R331,Demand Received
+R3551,"Refund - Payment of Maintenance Fee, 4th Year, Micro Entity"
+R3552,"Refund - Payment of Maintenance Fee, 8th Year, Micro Entity"
+R3553,"Refund - Payment of Maintenance Fee, 12th Year, Micro Entity"
+R3554,"Refund - Surcharge for Late Payment, Micro Entity"
+R3555,"Refund - Surcharge for Late Payment, Micro Entity"
+R3556,"Refund - Surcharge for Late Payment, Micro Entity"
+R3558,"Refund - Surcharge, Petition to Accept Pymt After Exp, Unintentional"
+R371,Receipt of 371 Request
+R48ACLT,Letter Accepting Correction of Inventorship Under Rule 1.48
+R48RJLT,Letter Rejecting Correction of Inventorship Under Rule 1.48
+R4S8,R4S8
+R5003,Dispatch from PCT Operations - Chapter I
+R5004,Dispatch from PCT Operations - Chapter II
+R85B,Workflow -Received 85b - Unmatched
+RABN,ABANDONMENT - RESTORED
+RAFC,PILOT- Request for After Final Consideration Program
+RBNE,Reply Brief Noted by Examiner
+RBPAI,RESTORED TO BOARD DECISION STATUS
+RCAP,Reference capture on IDS
+RCCP,RX - Concurrent Proceedings Notice
+RCDT,Receipt Date
+RCEX,Request for Continued Examination (RCE)
+RCIB,Record Copy For IB
+RCOM,RCOM
+RCONVP,Petition to Convert Regular to Provisional
+RDC.,RDC.
+RDCP,RX - Decision Merging Inter Partes & Ex Parte Proceedings
+RE11,X-Post-Legal Complete Rejection
+RE15,X-Post-Legal Complete Rejection
+RE16,X-Post-Legal Complete Rejection
+RE17,X-Post-Legal Complete Rejection
+RE18,X-Post-Legal Complete Rejection
+RE19,X-Post-Legal Complete Rejection
+RE20,X-Post-Legal Complete Rejection
+RE22,X-Post-Legal Complete Rejection
+RE23,X-Post-Legal Complete Rejection
+RE25,X-Post-Legal Complete Rejection
+RE26,X-Post-Legal Complete Rejection
+RE27,X-Post-Legal Complete Rejection
+RE28,X-Post-Legal Complete Rejection
+RE32,X-Post-Legal Complete Rejection
+RE33,X-Post-Legal Complete Rejection
+RE34,X-Post-Legal Complete Rejection
+REAS,Response to Reasons for Allowance
+RECX,No Entity Code Definition No Entity Code Definition
+REEX,Input Issue Number and Issue Date for Reexamination
+REIBHA,Receipt of Indirectly Filed Application from I.B. (Hague)
+REIN,Reinstate Patent
+REM.,Maintenance Fee Reminder Mailed
+RENHA,Renounced under the Hague Agreement
+REPCLAIM,Replacement Claims (Changes the Filing Date)
+REPS,Application scanned in CRU and can be accessed by the REPS system in the Public Search Room
+RESC,Rescind Nonpublication Request for Pre Grant Publication
+REST,Requirement for Restriction / Election Only
+RET/,Payment of Retention Fee Not Timely or Sufficient
+RETD,RX - Decision Terminating of Reexam
+RETF,Payment of Retention Fee
+REVCM,Review Certificate Mailed
+REVXMTHA,Pre-Exam Transmittal Review Complete (Hague)
+RFAI,Request for first action interview
+RFHA,Refusal Hague Treaty
+RI..,Requirement for Information
+RJ.NG,Rejection- New Grounds
+RLIM,Response to Notice of Lost Image
+RLIT,Reissue in litigation
+RMAPDR,Restart Response PTAB Decision on Appeal - Reversed
+RMAPE2,Restart Response Supplemental Examiner's Answer
+RMAPEA,Restart Response Examiner's Answer
+RMCTEQ,Restart Response Ex Parte Quayle Action (PTOL - 326)
+RMCTFR,Restart Response Final Rejection (PTOL - 326)
+RMCTNF,Restart Response Non-Final Rejection
+RMCTRS,Restart Response Restriction Requirement
+RMMCPA,Restart Response Notice of Missing Parts CPA
+RMN/=.,Restart Response Notice of Allowance
+ROIPE,Application Return TO OIPE
+ROPN,RX - Reopen Prsecution after PTAB Decision
+ROSC,RX - Order to Show Cause (or Supplemental)
+ROST,"RO complete, placed in storage"
+RPBR,Reply Brief Review Complete
+RPCP,Prosecution Pilot Conference Conducted
+RPEA,Resp. to post-examiner ans
+RPICO,Response to PICO-Request
+RPLDRWG,Replacement Drawings (Changes the Filing Date)
+RPLSPEC,Replacement Specification
+RPRD,RX - Petition for Review of Reexam Denial
+RQ.MS.PT,Request to Participate in the Missing Parts Pilot
+RQ/T,RQ/T
+RQIB,Request for Missing IB Paper
+RQMP,RQMP
+RQPR,Request for Foreign Priority (Priority Papers May Be Included)
+RQS.,RQS.
+RQSP,RQSP
+RQTA,RQTA
+RR.T,RR.T
+RRBN,RX - Reply Brief Noted by examiner
+RRCDK,Rocket Docket request
+RRCT,RRCT
+RRES,RX - Letter Restarting Period Of Response
+RRESP,Restart Response of action
+RRI.,Response to Requirement for Information
+RRIP,RRIP
+RRPC,Paralegal Reissue Review Complete
+RSEIN,SE - Corrected Request/Response to Incomplete SE Notice
+RSES,RSES
+RSET,RX - Letter Restarting a Period for Response
+RTAD,Released to OIPE
+RTNP,RECONSTRUCTION COMPLETE NO PAPERS PROVIDED
+RTRD,RX - Petition Received re Denial of a request for inter partes reexamination)
+RU45,Conversion under Rule 45
+RU47,Rule 47 / 48 Correction of Inventorship Papers Filed
+RVIFEEHA,Reversal of Issue Fee by I.B. (Hague)
+RXA...,Response after Non-Final Action
+RXA.LA,Late Amendment Filed
+RXA.NC,Amendment after NIRC
+RXA.NE,Response - Not Entered
+RXA.PE,Pre-Examination Amendment
+RXA.QU,Response after ex parte Quayle
+RXA/RC,Amendment after Reexamination Certificate
+RXA/RR,Request Reconsideration and/or Argument after Non-Final Action
+RXAAF.,Response to Final Filed (or Ready for Examiner Action)
+RXAF/D,"Affidavit(s), Declaration(s) and/or Exhibit(s) Filed"
+RXAF/DR,"Reexam  - Affidavit(s), Declaration(s) and/or Exhibit(s) Filed by Third Party Requester"
+RXAI,RX - Informal / NonResponsive Amendment after Examiner Action
+RXAMNE,"Amendment After Final, Not Entered"
+RXAP.B,Appeal Brief Filed
+RXAPAF,"Affidavit(s), Declaration(s) and/or Exhibit(s) Filed after Notice of Appeal (prior to PTAB Decision)"
+RXAPBD,Notification of Defective Brief
+RXAPBI,Defective Brief Filed
+RXAPBP,Appeal Brief Filed by Protestor
+RXAPBR,Appeal Brief Review Complete
+RXAPDFA,PTAB Decision on Rehearing - Decision is Final and Appealable
+RXAPDRN,PTAB Decision on Rehearing - Decision is New Decision
+RXAPHC,Reexam  Appeal - Oral Hearing Conducted at PTAB
+RXAPRB,Reply Brief Filed
+RXAPRR,Request for Reconsideration to PTAB Decision
+RXBD.A,Amendment/Argument after PTAB Decision
+RXBDAF,PTAB Decision - Affirmance
+RXBDAP,PTAB Decision - Affirmance-in-part
+RXBDRR,PTAB Remanded Reexam to Examiner
+RXBDRV,PTAB Decision -  Reversal
+RXBIG.,Applicant Has Filed a Statement Indicating a Loss of Entitlement to Small Entity Status.
+RXBPAI,Reexam Forwarded to PTAB
+RXC.AD,Correspondence Address Change
+RXC.ADR,Reexam  - Correspondence Address Change for Third Party Requester
+RXC/M.,Certificate of Mailing
+RXC/R.,Request for Reconsideration / Clarification
+RXC/SR,Certificate of Service
+RXC600,Supplemental Declaration / Oath
+RXC602,Declaration or Oath (Including Substitute) Filed
+RXC604,Substitute Specification
+RXC605,Certified Translation of Specification
+RXC614,New or Additional Drawing Filed
+RXC690,Request for Certificate of Correction P/E
+RXCAFC,Court of Appeals Decision Rendered
+RXCERT,Reexamination Certificate Issued
+RXCODR,Commissioner Initiated Order for Reexam in Preprocessing
+RXCOFC,Reexam Certificate of Correction
+RXCTAP,Appeal PTAB Decision to Court of Appeals
+RXCTIN,Interference Communication: Initial Memo
+RXDISQ,Terminal Disclaimer
+RXDIST,Terminal Disclaimer Filed
+RXDOCK,Reexam Assigned to Examiner for Determination
+RXDOR,Director Initiated Order for Reexam in Preprocessing
+RXDPAC,Preauthorization to Have Fees Charged to Deposit Account Filed
+RXEABN,Request to Terminate Reexam
+RXFEE.,Fee Payment Only Filed
+RXFOND,Case Found
+RXFWDX,Date Forwarded to Examiner
+RXIDS.,Information Disclosure Statement Filed
+RXIDS.R,Reexam  - Information Disclosure Statement Filed by Third Party Requester
+RXITERPR,Incoming Correspondence for Inter Partes Reexamination
+RXLET.,Miscellaneous Incoming Letter
+RXLITSR,Reexam Litigation Search Conducted
+RXLOST,Case Reported Lost
+RXLQ..,Letter of Inquiry Filed
+RXLTDR,Incoming Letter Regarding the Drawings
+RXM844,Information Disclosure Statement Filed
+RXM856,Request for Suspension Filed
+RXM865,Request for Examiner Interview Filed
+RXMISC,Miscellaneous Action Mailed
+RXMMIS,Miscellaneous Letter Mailed
+RXN/AP,Notice of Appeal Filed
+RXN570,Communication Concerning Power of Attorney (PTOL-308)
+RXNFDACC,Reexam  - Notice of filing date accorded
+RXNOCA,Notice of Court Action
+RXNREQAU,Notice of assignment of reexamination request
+RXNREQFD,Notice of reexamination request filing date
+RXNRQREC,Notice of reexamination request received
+RXNTRM,Notice of Termination of Incomplete Reexam Request (Mailed)
+RXO/PT,Submission of Original Patent Grant
+RXOIPE,Application Dispatched from OIPE
+RXOPPPET,Reexam  - Opposition filed in response to petition
+RXOR.T,Timely Owner Statement in Response to Order
+RXOR.U,Untimely/No Owner Statement 
+RXOSUB,Receipt of Original Ex Parte Reexam Request
+RXOSUB.R,Reexamination requested by third party requester
+RXOSUC,Orig Req Receipt Corrected
+RXO_40,Receipt of Orig. Ex Parte Reexam Request Less Than 40 Pages-Rule 1.20(c )(1)
+RXO_40.C,Receipt of Corrected Orig. Ex Parte Request Less Than 40 Pages- Rule 1.20(c )(1)
+RXO_40.R,Receipt of Orig. Ex Parte Request by Third Party Less Than 40 Pages - Rule 1.20(c )(1)
+RXPA..,Change in Power of Attorney (May Include Associate POA)
+RXPA..R,Reexam  - Change in Power of Attorney (May Include Associate POA) for Third Party Requester
+RXPC/I,Power to Make Copies and/or Inspect
+RXPCOM,Completion of Preprocessing - Released to Assigned GAU
+RXPET.,Receipt of Petition in a Reexam
+RXPETROH,Petition under 41.3 - Request to Reschedule Oral Hearing
+RXPROT,Protest Filed under 37 CFR 1.291
+RXPUBS,Reexam Forwarded to Office of Publications
+RXRANC,Response to Amendment after NIRC Mailed
+RXRLF,ReExam Litigation Found
+RXRQ/T,Request for Extension of Time
+RXRQMP,Request to Merge Proceedings
+RXRQOH,Request for Oral Hearing
+RXRQPR,Request for Foreign Priority (Priority Papers May Be Included)
+RXRQSP,Request to Stay Reexam Proceedings
+RXRQTS,Request for Suspension of Reexam Proceedings
+RXRR.T,Timely Requestor's Reply to an Owner's Statement
+RXRR.U,Untimely Requestor Reply to an Owner's Statement - Not Made of Record/Returned
+RXRTN2TC,Reexam returned to TC for correction/completion
+RXRU47,Rule 47 Papers
+RXSA..,Supplemental Response after Non-Final Rejection
+RXSADV,Supplemental Advisory Action
+RXSAFR,Supplemental Amendment after Final Rejection
+RXSAPB,Supplemental Appeal Brief Filed
+RXSCNR,Scanned in Central Reexam Unit
+RXSEPQ,Supplemental Ex Parte Quayle Action
+RXSFR.,Supplemental Final Rejection
+RXSMAL,Verified Small Entity Statement in Compliance with 37 CFR 1.27
+RXSR..,Supplemental Non-Final Rejection
+RXSRCH,Official Search Conducted
+RXTD.NE,Reexam Notification of Terminal Disclaimer - Not Accepted
+RXTD.OK,Reexam Notification of Terminal Disclaimer - Accepted
+RXTMOS,Termination of Official Search
+RXTSRP,Suspension in a Reexam Proceeding
+RXTTLRPT,Title Report
+RXWDPA,Notification of Withdrawal of Attorney P/D
+RXWVST,Waiver of owners statement in ex parte
+RXXT/D,Request for Extension of Time - Denied
+RXXT/G,Request for Extension of Time Granted
+R_CPA_ST,Reset CPA to New Case Status of 030
+SA..,Supplemental Response
+SA.P,SA.P
+SADV,Supplemental Examiner Action
+SAFR,Supplemental Amendment after Final Rejection
+SANF,Supplemental Amendment after Non-Final Office Action
+SAPB,Supplemental Appeal Brief
+SB39ACPR,Letter Accepting Permission for Application Access by Foreign IPO
+SB39ACRE,Letter Accepting Rescission of Permission for Application Access by Foreign IPO
+SB39RJPR,Letter Rejecting Permission for Application Access by Foreign IPO
+SB39RJRE,Letter Rejecting Rescission of Permission for Application Access by Foreign IPO
+SB69ACPR,Letter Accepting Permission for Search Results Access by Foreign IPO
+SB69ACRE,Letter Accepting Rescission of Permission for Search Results Access by Foreign IPO
+SB69RJPR,Letter Rejecting Permission for Search Results Access by Foreign IPO
+SB69RJRE,Letter Rejecting Rescission of Permission for Search Results Access by Foreign IPO
+SCAN,IFW Scan & PACR Auto Security Review
+SCIR,Non COMpliant FAI (non pilot)
+SEAL,Application Sealed (L & R)
+SENT,Workflow - File Sent to Contractor
+SEPQ,Supplemental Ex Parte Quayle
+SEPT,SE - Supplemental Examination Petition filed
+SEQC,SEQC
+SEQDISK,"A set of symbols and procedures, provided to the PTO on a set of 3 ? inch diskettes in computer read"
+SEQI,Incoming Biotech Sequence Request
+SEQLIST,"A set of symbols and procedures, provided to the PTO on a set of computer listings, that describe in"
+SEQO,Outgoing Biotech Sequence Results
+SER,Application Number Change
+SEREQ,SE - Supplemental Examination Request Filed
+SES,Small Entity Statement (37 CFR 1.27)
+SETS,Set Application Status
+SFR.,Supplemental Final Rejection
+SIDS,Supplemental Information Disclosure Statement Filed
+SIR.,SIR Request
+SMAL,Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27
+SPCT,PCT - Supplemental Action
+SPECIFIC,"A  document that contains, at least in part, a written description of an invention, and of the manne"
+SPRO,SPRO
+SQPR,SEQUENCE ERRORS
+SR..,Supplemental Non-Final Rejection (PTOL-326)
+SRCH,Official Search Conducted
+SRES,Supplemental Restriction
+SREXR141,PTO/SB/69-Authorize EPO Access to Search Results
+SRI.,Supplemental Requirement for Information
+SRNF,Supplemental Non-Final Action
+SRR,Suggested restriction required
+STGR,Statement Of Grant (Hague)
+SUBSPEC,Substitute Specification
+T1GR,Track 1 Request Granted
+T1NC,Track 1 Noncompliant Request
+T1OFF,track 1 OFF
+T1ON,track 1 ON 
+T501,1.501 Submission by Third Party
+TC22HA,Transmit Rule 22 Communication (Hague)
+TCBP,TC completion of return order
+TCPB,Printer Rush- No mailing
+TCPT,TC Petition Decision
+TCPTD,TC Petition Denied / Dismissed
+TCPTG,TC Petition Granted
+TCRD,Return of Undocketed appeal to the TC
+TCWD,Appeal ready for PTAB docketing
+TDP,terminal disclaimer fee paid
+TF01,TF01
+TF02,TF02
+TF03,TF03
+TF04,TF04 
+TF05,TF05  
+TF06,TF06  
+TF07,TF07  
+TF08,TF08  
+TFPR,Certified Translation of Foreign Priority Document
+TI1050,Transfer Inquiry to GAU
+TI1052,Decision Made by Classification Division
+TI1054,Request for Classification Division Decision
+TI10XX,Record Classification Panel Decision
+TI10XY,Request Classification Panel Decision
+TK1R,Track 1 Request
+TMOS,Termination of Official Search
+TN/=.HA,Transmit Notice of Allowance to I.B. (Hague)
+TN123HA,Transmit Notification Under Rule 12(3)(d) to I.B. (Hague)
+TPTRF,Transmit Partial Refusal Hague Treaty
+TR.Q,Transfer Inquiry
+TR.R,Transfer Refusal
+TRDD,Decision by Documentation
+TRDW,Request for Transfer of Drawings
+TRFHA,Transmit Refusal Hague Treaty
+TRIALCER,Review Certificate
+TRIALDEN,Request for Trial Denied
+TRIALDIS,Request for Trial Dismissed
+TRIALFWD,Termination or Final Written Decision
+TRIALGIP,Request for Trial Granted in Part
+TRIALGRT,Request for Trial Granted
+TRIALPET,Petition Requesting Trial
+TRIBHA,Transmittal of Indirectly Filed Application to I.B. (Hague)
+TRNANNEX,Translation of Annexes to the International Preliminary Examination Report into English
+TRNART19,Translation of Article 19 Amendments into English
+TRNCLAIM,Translation of Claims into English
+TRNIA,Translation of the international application into English
+TRNIPER,Translation of the International Preliminary Examination Report into English
+TRNISR,Translation of the International Search Report into English
+TRNSPEC,Translation of Specification into English
+TRRD,Refusal by Documentation to Render Classification Decision
+TRRR,Request Reconsideration of Documentation's Classification Decision
+TSSA,IFW Amended case processing Complete
+TSSCOMP,IFW TSS Processing by Tech Center Complete
+TSTGR,Transmit Statement of Grant to I.B. (Hague)
+U29N,XXXXX
+U410,UnMatched Papers in Pubs
+U41B,UnMatched Papers in Pubs
+U731,UnMatched Papers in Pubs
+U751,UnMatched Papers in Pubs
+U752,UnMatched Papers in Pubs
+U753,UnMatched Papers in Pubs
+U754,UnMatched Papers in Pubs
+U755,UnMatched Papers in Pubs
+U756,UnMatched Papers in Pubs
+U759,UnMatched Papers in Pubs
+U75A,UnMatched Papers in Pubs
+U75D,UnMatched Papers in Pubs
+U765,UnMatched Papers in Pubs
+U766,UnMatched Papers in Pubs
+UNSL,Application Unsealed (L & R)
+UPRS,Application Made Unavailable for Examination
+USDO,USPTO Is Designated Office
+VFEE,Reverse Issue Fee
+W.I.,Withdrawing/Vacating Second Office Action Letter
+W/AC,Withdrawing/Vacating Office Action Letter
+W/N=,Withdrawal of Notice of Allowance
+W/OA,Pre-Exam Office Action Withdrawn
+W525,Withdraw Flagged for 5/25
+WABN,Withdraw Publication/Pre-Exam Abandon
+WACT,Withdrawal of Allowance Action Count
+WAMD,Workflow incoming amendment IFW
+WASY,WASY
+WCRD,Withdraw of return of appeal
+WDUPL,Reverse Duplicate case has been deactivated
+WFIS,Withdrawal Patent Case from Issue
+WIDS,Information Disclosure Statement (IDS) Filed
+WINA,Mail Notice of Withdrawn Second Action
+WIPS,Withdraw Application from Pre-Grant Publication List
+WISA,WISA
+WPABN,Withdraw Pre-Exam Abandon
+WPET,Workflow incoming petition IFW
+WPIR,Issue Notification Mailed
+WRFAI,Withdraw from first action interview
+WROIPE,Application Return from OIPE
+WSIR,Notice of Withdrawal of SIR
+X/BD,Correction - Biological Deposit NOT Required
+X/DR,Correction - Drawing NOT Required
+X/OD,Correction - Oath or Declaration NOT Required
+XAPAR,Supplemental Examiner's Answer
+XAPPERMS,Rescission of the SB/39 form
+XI.A...,Response after non-final action - owner - timely
+XI.ACPOC,Patent Owner Comments after Action Closing Prosecution
+XI.ACPRC,Third Party Requester Comments after Action Closing Prosecution
+XI.AP.BO,Owner Appellant's Brief Review by PTAB Complete
+XI.AP.BR,APPEAL BRIEF- THIRD PARTY REQUESTER REVIEW BY PTAB COMPLETE
+XI.AP.DA,New PTAB Decision after Board Decision With New Ground of Rejection: Examiner Affirmed
+XI.AP.DN,New PTAB Decision after Board Decision With New Ground of Rejection: New Ground of Rejection
+XI.AP.DP,New PTAB Decision after Board Decision With New Ground of Rejection: Examiner Affirmed in Part
+XI.AP.DR,New PTAB Decision after Board Decision With New Ground of Rejection: Examiner Reversed
+XI.APAR,PTAB Decision:  Remand to Examiner (R. 41.77(d))
+XI.APBI,Defective Brief Filed
+XI.APCTO,Patent Owner Appeal to the Federal Circuit Filed
+XI.APCTR,Requester Appeal to the Federal Circuit 
+XI.APDFA,Board of Appeals Decision on Rehearing - Decision is Final and Appealable
+XI.APDN,PTAB Decision:  New Ground of Rejection (R. 41.77(b))
+XI.APDOC,Patent Owner Response after Board Decision With New Ground of Rejection R. 1.977(b)
+XI.APDRC,Requester Comments on Patent Owner Response after Board Decision 
+XI.APDRN,PTAB Decision on Rehearing - Decision is New Decision
+XI.APFWD,Appealed Case awaiting PTAB Decision
+XI.APND,Defective Brief Filed
+XI.APOHO,Oral Hearing Request-  Owner
+XI.APOHR,Oral Hearing Request-  Third Party Requester
+XI.DOCK,Case docketed to examiner
+XI.FWDX,Ready for Examiner Action after Nonfinal
+XI.FWDX2,Ready for Examiner Action after ACP
+XI.FWDX3,Ready for Examiner Action after RAN
+XI.FWDX4,Ready for Examiner Action after Examiners Answer
+XI.FWDX5,Ready for Examiner Action after PTAB Decision
+XI.N/APD,Defective Notice of Appeal or Cross Appeal Filed
+XI.N/APO,Notice of Appeal- Owner
+XI.N/APR,Notice of Appeal- Requester
+XI.NCAPO,Notice of Cross Appeal- Owner
+XI.NCAPR,Notice of Cross Appeal- Third Party Requester
+XI.NINA,Informal response/amendment
+XI.NREQI,Notification of Incomplete Inter Partes Reexam Request
+XI.NRQRE,Notice of Incomplete Reexam Request Received but no filing date accorded
+XI.OSUB,Receipt of Original Inter Partes Reexam Request
+XI.OSUBC,Receipt of Corrected Orig Inter Partes Reexam Request 
+XI.OSUBX,Request for Accelerated Inter Partes Reexamination
+XI.PCOM,Completion of pre-processing - released to TC
+XI.PRETE,Preprocessing Terminated--Inter Partes Reexam
+XI.PUBS,Terminated;  released to Publications for Issuance of Reexam Certificate
+XI.RBBO,Owner Rebuttal Brief Review by PTAB Complete
+XI.RBBR,REBUTTAL BRIEF- REQUESTER REVIEW BY PTAB COMPLETE
+XI.RNFRC,Third Party Requester Comments after Non-final Action
+XI.RQRHO,Patent Owner Request for Rehearing after Board Decision
+XI.RQRHR,Requester Request for Rehearing after Board Decision 
+XI.RRHOC,Patent Owner Comments on Request for Rehearing after Board Decision (R.41.79(c)) - timely
+XI.RRHRC,Requester Comments on Request for Rehearing after Board Decision (R.41.79(c)) - timely
+XI.RSBO,RESPONDENT BRIEF- OWNER  REVIEW BY PTAB COMPLETE
+XI.RSBR,RESPONDENT BRIEF- REQUESTER REVIEW BY PTAB COMPLETE
+XI.RXCER,Reexamination Certificate Issued
+XI.XDTOC,Owner Comments on Exmnr's Determination Aft PTAB Dec w/New Ground of Rej 
+XI.XDTOR,Owner Reply to REQ Comments on Exmnr's Determ Aft PTAB Dec w/New Ground of Rej 
+XI.XDTRC,Requester Comments on Exmnr's Determination Aft PTAB Dec w/New Ground of Rej 
+XI.XDTRR,Requester Reply to Owner Reply on Exmnr's Determ Aft PTAB Dec w/New Ground of Rej 
+XI.XRRAN,Expedited Request for a Right of Appeal Notice
+XIAPBDBO,Notice of Non-Compliance Mailed- Owner Appellants Brief
+XIAPBDBR,Notice of Non-Compliance Mailed- Requester Appellants Brief
+XIAPBIBO,Notice of Non-Compliant Owner Appellants Brief 
+XIAPBIBR,Notice of Non-Compliant Requester Appellants Brief
+XIAPBRBO,Owner Appellants Brief Review by CRU Complete
+XIAPBRBR,Requester Appellants Brief Review by CRU Complete
+XIRBBDBO,Notice of Non-Compliance Mailed- Owner Rebuttal Brief
+XIRBBDBR,Notice of Non-Compliance Mailed- Requester Rebuttal Brief
+XIRBBIBO,Notice of Non-Compliant Owner Rebuttal Brief
+XIRBBIBR,Notice of Non-Compliant Requester Rebuttal Brief
+XIRBBRBO,Owner Rebuttal Brief Review by CRU Complete
+XIRBBRBR,Requester Rebuttal Brief Review by CRU Complete
+XIRSBDBO,Notice of Non-Compliance Mailed- Owner Respondents Brief
+XIRSBDBR,Notice of Non-Compliance Mailed- Requester Respondents Brief
+XIRSBIBO,Notice of Non-Compliant Owner Respondents Brief
+XIRSBIBR,Notice of Non-Compliant Requester Respondents Brief
+XIRSBRBO,Owner Respondents Brief Review by CRU Complete
+XIRSBRBR,Requester Respondents Brief Review by CRU Complete
+XRSP,Extension of Response Period (PTOL-327)
+XSREX141,Rescinded SB/69
+XT/D,Request for Extension of Time - Denied
+XT/G,Request for Extension of Time - Granted
+ZMAN,Petition for Writ of Mandamus (CAFC)
+ZMAND,Mandamus - Denied
